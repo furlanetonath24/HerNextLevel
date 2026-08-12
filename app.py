@@ -108,7 +108,7 @@ def get_top_chunks(query, chunk_embeddings, text_chunks):
     
 def respond(message, history): #respond function
     top_results = get_top_chunks(message, chunk_embeddings, cleaned_chunks) 
-    messages = [{"role": "system", "content": f"You are a friendly chatbot. Use the following research context to help answer questions:\n\n{top_results}”}]
+    messages = [{"role": "system", "content": f"You are a friendly chatbot. Use the following research context to help answer questions:\n\n{top_results}"}]
 
     if history:
         messages.extend(history)
