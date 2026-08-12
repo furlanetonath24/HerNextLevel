@@ -125,7 +125,7 @@ def get_top_chunks(query, chunk_embeddings, text_chunks):
     top_chunks.append(chunk)
 
   # Return the list of most relevant chunks
-  return top_chunks1
+  return top_chunks
 
 chatbot.launch(theme=gr.Theme.from_hub("Ayaku/Aa"))
 
