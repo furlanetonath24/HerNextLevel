@@ -19,8 +19,6 @@ with open("knowledge.txt", "r", encoding="utf-8") as file:
   # Read the entire contents of the file and store it in a variable
     knowledge_txt = file.read()
 
-chatbot = gr.ChatInterface(respond)
-
 def preprocess_text(text):
   # Strip extra whitespace from the beginning and the end of the text
   cleaned_text = text.strip()
@@ -110,7 +108,7 @@ def get_top_chunks(query, chunk_embeddings, text_chunks):
     
 def respond(message, history): #respond function
     top_results = get_top_chunks(message, chunk_embeddings, cleaned_chunks) 
-    messages = [{"role": "system", "content": "You are a friendly chatbot."}]
+    messages = [{"role": "system", "content": f"You are a friendly chatbot. Use the following research context to help answer questions:\n\n{top_results}”}]
 
     if history:
         messages.extend(history)
