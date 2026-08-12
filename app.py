@@ -29,7 +29,7 @@ def respond(message, history):
 
     return response.choices[0].message.content.strip()
 
-!pip install -q sentence-transformers
+pip install sentence-transformers
 from sentence_transformers import SentenceTransformer
 import torch
 
