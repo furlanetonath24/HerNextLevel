@@ -123,6 +123,7 @@ def respond(message, history): #respond function
 
     return response.choices[0].message.content.strip()
     
+chatbot = gr.ChatInterface(respond)
 chatbot.launch(theme=gr.Theme.from_hub("Ayaku/Aa"))
 
 
