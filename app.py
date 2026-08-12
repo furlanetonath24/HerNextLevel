@@ -127,7 +127,7 @@ def get_top_chunks(query, chunk_embeddings, text_chunks):
   # Return the list of most relevant chunks
   return top_chunks1
 
-chatbot.launch()
+chatbot.launch(theme=gr.Theme.from_hub("Ayaku/Aa"))
 
 
 # TODO: This is just a starting point! Customize the system prompt,
