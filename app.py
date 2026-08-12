@@ -12,23 +12,6 @@ from huggingface_hub import InferenceClient
 
 client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 
-
-def respond(message, history):
-    messages = [{"role": "system", "content": "You are a friendly chatbot."}]
-
-    if history:
-        messages.extend(history)
-
-    messages.append({"role": "user", "content": message})
-
-    response = client.chat_completion(
-        messages,
-        max_tokens=1024,
-        temperature = 0.7
-    )
-
-    return response.choices[0].message.content.strip()
-
 from sentence_transformers import SentenceTransformer
 import torch
 
@@ -36,8 +19,6 @@ with open("knowledge.txt", "r", encoding="utf-8") as file:
   # Read the entire contents of the file and store it in a variable
     knowledge_txt = file.read()
 
-# Print the text below
-print(knowledge_txt)
 chatbot = gr.ChatInterface(respond)
 
 def preprocess_text(text):
@@ -71,7 +52,7 @@ def preprocess_text(text):
   return cleaned_chunks
 
 # Call the preprocess_text function and store the result in a cleaned_chunks variable
-cleaned_chunks = preprocess_text(knowledge_txt)
+cleaned_chunks = preprocess_text("knowledge.txt")
                                 
 # Load the pre-trained embedding model that converts text to vectors
 model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -126,7 +107,24 @@ def get_top_chunks(query, chunk_embeddings, text_chunks):
 
   # Return the list of most relevant chunks
   return top_chunks
+    
+def respond(message, history): #respond function
+    top_results = get_top_chunks(message, chunk_embeddings, cleaned_chunks) 
+    messages = [{"role": "system", "content": "You are a friendly chatbot."}]
 
+    if history:
+        messages.extend(history)
+
+    messages.append({"role": "user", "content": message})
+
+    response = client.chat_completion(
+        messages,
+        max_tokens=1024,
+        temperature = 0.7
+    )
+
+    return response.choices[0].message.content.strip()
+    
 chatbot.launch(theme=gr.Theme.from_hub("Ayaku/Aa"))
 
 
