@@ -34,10 +34,10 @@ import torch
 
 with open("knowledge.txt", "r", encoding="utf-8") as file:
   # Read the entire contents of the file and store it in a variable
-    knowledge.txt = file.read()
+    knowledge_txt = file.read()
 
 # Print the text below
-print(knowledge.txt)
+print(knowledge_txt)
 chatbot = gr.ChatInterface(respond)
 
 def preprocess_text(text):
