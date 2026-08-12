@@ -1,0 +1,598 @@
+# High School Math and STEM Summer Programs Knowledge Base
+
+
+## Program 1: IMA-MathCEP Math Modeling Camp
+- Organization: University of Minnesota
+- Location: University of Minnesota (Non-residential, Twin Cities preference)
+- Cost: Free
+- Dates: June 22–June 26
+- Application Deadline: May 31
+- Target Audience: High school students who have completed Calculus.
+- Description: High schoolers use mathematical models to analyze real-world situations, such as traffic flow on a bridge or the impact of climate change on natural resources. Requires a math teacher recommendation.
+
+
+## Program 2: SUMaC (Stanford University Math Camp)
+- Organization: Stanford University
+- Location: Online and Stanford University (Residential)
+- Cost: Online $3,750 | Residential $8,950
+- Dates: Online Session 1 (June 15–July 3), Online Session 2 (July 6–July 24), Residential Session (June 21–July 17)
+- Application Deadline: February 2
+- Target Audience: Academically advanced high school students.
+- Description: Offers intensive online and residential experiences in advanced mathematics through lectures, guided research, and group problem-solving. Enrolls 64 virtual and 40 residential students.
+
+
+## Program 3: IDEA MATH Camp
+- Organization: IDEA MATH
+- Location: Online, Dallas Area (TX), Greater Boston Area (MA), California Bay Area (CA)
+- Cost: $1,395 – $2,895
+- Dates: Varies by location
+- Application Deadline: Rolling / N/A
+- Target Audience: High school math students seeking enrichment.
+- Description: Combines interactive teaching, group learning, and seminar lectures in algebra, combinatorics, geometry, and number theory.
+
+
+## Program 4: Canada/USA Mathcamp
+- Organization: Canada/USA Mathcamp
+- Location: Champlain College
+- Cost: $7,500 (Financial aid available)
+- Dates: June 28–August 2
+- Application Deadline: February 23
+- Target Audience: High school students with high potential in math.
+- Description: A 5-week residential summer camp enrolling 65 new students and 55 alumni. Admissions require a Qualifying Quiz, personal essay, and recommendations.
+
+
+## Program 5: Summer Academy for Math and Science (SAMS)
+- Organization: Carnegie Mellon University
+- Location: Carnegie Mellon University (Pittsburgh, PA)
+- Cost: Free
+- Dates: June 20–August 1
+- Application Deadline: February 1
+- Target Audience: High school juniors from underrepresented, low-income, or historically under-resourced backgrounds.
+- Description: A free 6-week residential program encouraging diversity and inclusion in STEM. Students build math and science skills under Carnegie Mellon faculty.
+
+
+## Program 6: AlphaStar In-Person Academy Summer Math Camp
+- Organization: AlphaStar Academy
+- Location: Online and Cupertino, CA
+- Cost: $1,150 – $3,550
+- Dates: Session 1 (June 8–26), Session 2 (June 29–July 17), Session 3 (July 20–August 7)
+- Application Deadline: Rolling / N/A
+- Target Audience: Students training for competitive math contests.
+- Description: 3-week intensive training for math competitions covering algebra, counting, geometry, and number theory.
+
+
+## Program 7: AwesomeMath Summer Program
+- Organization: AwesomeMath
+- Location: Online
+- Cost: $1,275 – $1,575
+- Dates: Session 1 (June 8–26), Session 2 (June 29–July 17), Session 3 (July 20–August 7)
+- Application Deadline: May 26
+- Target Audience: Students preparing for AMC10/12, USA(J)MO, and AIME competitions.
+- Description: 3-week online course focusing on advanced problem-solving skills and competition mathematics.
+
+
+## Program 8: The Ross Mathematics Program
+- Organization: Ross Program
+- Location: Otterbein University and Rose-Hulman Institute of Technology
+- Cost: $7,500
+- Dates: June 14–July 24
+- Application Deadline: March 8
+- Target Audience: Motivated pre-college students.
+- Description: A 6-week residential experience encouraging students to explore mathematical topics deeply through challenging problem sets.
+
+
+## Program 9: Research Science Institute (RSI)
+- Organization: Center for Excellence in Education / MIT
+- Location: Massachusetts Institute of Technology (Cambridge, MA)
+- Cost: Free
+- Dates: June 28–August 8
+- Application Deadline: December 10
+- Target Audience: High school juniors with exceptional achievements in STEM.
+- Description: Prestigious 6-week program combining 1 week of STEM coursework with 5 weeks of individual research projects under mentorship.
+
+
+## Program 10: MathILy
+- Organization: Bryn Mawr College
+- Location: Bryn Mawr College (Bryn Mawr, PA)
+- Cost: $6,175
+- Dates: June 28–August 1
+- Application Deadline: April 28
+- Target Audience: High school math enthusiasts.
+- Description: 5-week residential program focused on inquiry-based math lessons (~7 hours daily) led by PhD mathematicians.
+
+
+## Program 11: Michigan Math & Science Scholars (MMSS)
+- Organization: University of Michigan
+- Location: University of Michigan (Ann Arbor, MI)
+- Cost: $2,600 per session
+- Dates: Session 1 (June 21–July 3), Session 2 (July 5–17), Session 3 (July 19–31)
+- Application Deadline: Rolling
+- Target Audience: High school sophomores, juniors, and seniors.
+- Description: 2-week residential modules introducing current developments and university-level research in math and science.
+
+
+## Program 12: STEM Workshop at Hofstra University
+- Organization: Hofstra University
+- Location: Hofstra University (Hempstead, NY)
+- Cost: $2,400
+- Dates: June 29–July 10
+- Application Deadline: Rolling / N/A
+- Target Audience: Students in grades 6–10.
+- Description: Combines hands-on STEM career exploration activities with traditional day camp activities.
+
+
+## Program 13: HCSSiM (Hampshire College Summer Studies in Mathematics)
+- Organization: Hampshire College
+- Location: Hampshire College (Amherst, MA)
+- Cost: $7,208 (Free for domestic families earning under $85,000/year)
+- Dates: June 28–August 8
+- Application Deadline: Rolling / N/A
+- Target Audience: Highly motivated high school math students.
+- Description: 6-week active college-level math program involving workshops, lectures, maxi-courses, and mini-courses.
+
+
+## Program 14: PROMYS (Program in Mathematics for Young Students)
+- Organization: Boston University
+- Location: Boston University (Boston, MA)
+- Cost: $8,000 (Free for domestic families earning under $80,000/year)
+- Dates: June 28–August 8
+- Application Deadline: February 27
+- Target Audience: High school students age 14 and older.
+- Description: 6-week residential math program exploring creative mathematics alongside undergraduate counselors and research mathematicians.
+
+
+## Program 15: UPenn Mathematics Academy
+- Organization: University of Pennsylvania
+- Location: University of Pennsylvania (Philadelphia, PA)
+- Cost: $6,700 (Free for Philadelphia public/charter school students)
+- Dates: July 11–July 25
+- Application Deadline: Rolling
+- Target Audience: High school students interested in advanced math topics.
+- Description: Residential program introducing non-Euclidean geometry, topology, game theory, combinatorics, graph theory, and mathematical logic.
+
+
+## Program 16: Rutgers Young Scholars Program in Discrete Mathematics
+- Organization: Rutgers University
+- Location: Rutgers University (New Brunswick, NJ)
+- Cost: $4,800
+- Dates: July 6–July 31
+- Application Deadline: Rolling
+- Target Audience: High school students considering math careers.
+- Description: 4-week program focusing on discrete mathematics and career opportunities (students reside on campus weekdays, returning home weekends).
+
+
+## Program 17: Illinois Tech Math in Action
+- Organization: Illinois Institute of Technology
+- Location: Online
+- Cost: $300
+- Dates: June 15–June 19
+- Application Deadline: May 8
+- Target Audience: Rising 9th through 12th graders.
+- Description: 1-week online workshop developing abstract reasoning, problem-solving, and mathematical communication.
+
+
+## Program 18: Summer Math Program for Young Scholars at NYU
+- Organization: New York University (NYU)
+- Location: NYU (New York, NY)
+- Cost: $2,500
+- Dates: August 10–August 28
+- Application Deadline: March 31
+- Target Audience: High school students in grades 9–12.
+- Description: 3-week introduction to college math topics like graph theory, computer science, knot theory, and number theory.
+
+
+## Program 19: Young Scholars Program (YSP) at UChicago
+- Organization: University of Chicago
+- Location: University of Chicago (Chicago, IL)
+- Cost: $250 – $1,000 (Income-based sliding scale, scholarships available)
+- Dates: June 29–July 24
+- Application Deadline: April 10
+- Target Audience: Chicago-area students in grades 7–12.
+- Description: 4-week day program covering advanced mathematical topics (e.g., number theory).
+
+
+## Program 20: Simons Summer Research Program
+- Organization: Stony Brook University
+- Location: Stony Brook University (Stony Brook, NY)
+- Cost: Free
+- Dates: June 29–August 7
+- Application Deadline: February 5
+- Target Audience: High school juniors.
+- Description: Hands-on research program in STEM culminating in a research poster and symposium presentation.
+
+
+## Program 21: New York Math Circle (NYMC) Summer Program
+- Organization: New York Math Circle
+- Location: Online and NYU (New York, NY)
+- Cost: $850 – $1,195
+- Dates: July 21–August 7
+- Application Deadline: April 5
+- Target Audience: High school math students.
+- Description: Problem-solving program categorized into sections based on a qualifying placement exam.
+
+
+## Program 22: COSMOS (California State Summer School for Mathematics & Science)
+- Organization: University of California System
+- Location: UC Davis, UC Irvine, UCLA, UC Merced, UC San Diego, UC Santa Cruz
+- Cost: $5,518
+- Dates: July 5–August 1 (Varies slightly by campus)
+- Application Deadline: February 7
+- Target Audience: California residents in grades 8–12 with a GPA of 3.5+.
+- Description: Selective 4-week residential STEM program offering hands-on, lab-intensive course clusters.
+
+
+## Program 23: LSU Math Circle
+- Organization: Louisiana State University
+- Location: Online
+- Cost: $1,200
+- Dates: Session 1 (June 8–27), Session 2 (July 13–August 1)
+- Application Deadline: Rolling / N/A
+- Target Audience: High school students in grades 9–12.
+- Description: 3-week mentored online program focused on college-level math foundation and ending with a capstone poster project.
+
+
+## Program 24: My Introduction to Engineering (MITE)
+- Organization: University of Texas at Austin
+- Location: UT Austin (Austin, TX)
+- Cost: $200
+- Dates: Session 1 (June 21–25), Session 2 (July 12–16)
+- Application Deadline: March 1
+- Target Audience: High school juniors.
+- Description: 5-day residential engineering exploration camp involving hands-on projects and campus life experience.
+
+
+## Program 25: PZMC Number Theory Camp
+- Organization: Williams College
+- Location: Williams College (Williamstown, MA)
+- Cost: $3,100
+- Dates: June 29–July 10
+- Application Deadline: April 24
+- Target Audience: High school students who have completed Algebra 2.
+- Description: Intimate residential camp (28–35 students) focused on number theory, lectures, and group problem-solving.
+
+
+## Program 26: G2 Math Program
+- Organization: Massachusetts Institute of Technology (MIT)
+- Location: MIT (Cambridge, MA)
+- Cost: Free (Covers housing, meals, and up to $500 in travel/flight expenses)
+- Dates: July 10–July 26
+- Application Deadline: March 1
+- Target Audience: Female and nonbinary high school students (age 14+).
+- Description: Dedicated program for female and nonbinary students seeking to study Olympiad-level mathematics, problem-solving, and build a peer network in Boston.
+
+
+## Program 27: Mathworks Honors Summer Math Camp
+- Organization: Texas State University
+- Location: Texas State University (San Marcos, TX)
+- Cost: $6,600 (Financial aid available)
+- Dates: June 21–August 1
+- Application Deadline: Rolling
+- Target Audience: High school math students.
+- Description: 6-week competitive residential program focusing on problem-solving, research, and collaborative math/engineering learning.
+
+
+## Program 28: √mathroots @ MIT
+- Organization: MIT
+- Location: MIT (Cambridge, MA)
+- Cost: Free
+- Dates: July 1–July 15
+- Application Deadline: March 3
+- Target Audience: Talented students ages 14–18 (Precalculus recommended).
+- Description: 2-week residential camp designed to introduce promising young mathematicians to creative and rigorous math concepts.
+
+
+## Program 29: RIT Math Summer Workshop
+- Organization: Rochester Institute of Technology
+- Location: RIT (Rochester, NY)
+- Cost: Free
+- Dates: June 29–July 3
+- Application Deadline: Rolling / N/A
+- Target Audience: High school students (Commuter program).
+- Description: 1-week workshop exploring probability, polynomials, mechanical gadgets, and mathematical biology alongside RIT professors.
+
+
+## Program 30: (MS)² (Mathematics and Science for Minority Students)
+- Organization: Phillips Academy Andover
+- Location: Phillips Academy (Andover, MA)
+- Cost: Free
+- Dates: June 30–August 2
+- Application Deadline: January 15
+- Target Audience: 9th-grade students from underrepresented background communities in STEM.
+- Description: Free 5-week, 3-summer residential STEM and leadership program offering college counseling and rigorous academic preparation.
+
+
+## Program 31: MIT PRIMES 
+- Organization: Massachusetts Institute of Technology 
+- Location: Remote track open nationally/internationally; in-person track requires proximity to Boston 
+- Cost: Free 
+- Dates: Year-long program (roughly October through May)
+- Application Deadline: Typically due in December 
+- Target Audience: High school juniors (some tracks open to sophomores) with strong math/CS background. 
+- Description: A free, highly selective research program where students work on original research in mathematics, computer science, or computational biology under MIT mentors, culminating in a paper. 
+
+
+## Program 32: MIT Beaver Works Summer Institute (BWSI) 
+- Organization: MIT 
+- Location: MIT campus (Cambridge, MA) and online, residential and remote tracks available
+- Cost: Free for families earning under $200,000/year; a fee applies above that threshold 
+- Dates: Summer, typically late June through early August 
+- Application Deadline: Rolling, applications generally open in winter 
+- Target Audience: Rising high school seniors with strong STEM background. 
+- Description: Intensive STEM/engineering program with tracks in robotics, autonomous systems, cybersecurity, and AI, including hands-on build projects. 
+
+
+## Program 33: Google Computer Science Summer Institute (CSSI)
+- Organization: Google
+- Location: Varies by year — check current cycle for virtual vs. in-person 
+- Cost: Free - Dates: Summer, typically a few weeks 
+- Application Deadline: Typically due in spring 
+- Target Audience: Graduating high school seniors planning to study computer science in college, especially from underrepresented groups. 
+- Description: An introductory computer science program for incoming college freshmen, run directly by Google engineers — useful as a "what's next after high school" recommendation. 
+
+
+## Program 34: Congressional App Challenge 
+- Organization: U.S. House of Representatives (run by local congressional districts) 
+- Location: Online (submission-based, tied to student's congressional district) 
+- Cost: Free 
+- Dates: Opens over the summer, submissions typically due in early November 
+- Application Deadline: Rolling within the submission window (varies by district)
+- Target Audience: Middle and high school students in the U.S., no experience required. 
+- Description: Students create and submit an original app addressing a challenge relevant to their congressional district. Winning teams are recognized nationally, and winning apps are displayed in the U.S. Capitol for one year. 
+
+
+## Program 35: JHU APL ASPIRE 
+- Organization: Johns Hopkins University Applied Physics Laboratory 
+- Location: Laurel, MD (in-person; students must arrange own transportation) 
+- Cost: Free (unpaid — no stipend) 
+- Dates: June 23–August 21 (roughly) 
+- Application Deadline: Typically due in winter 
+- Target Audience: High school students interested in engineering/tech research; highly selective (about 7% acceptance rate). 
+- Description: Students work full-time hours (30–40/week) alongside APL engineers and scientists on real research projects. One of the most selective free high school research internships in the country. 
+
+
+## Program 36: Botball / KIPR 
+- Organization: KISS Institute for Practical Robotics (KIPR) 
+- Location: Regional and international tournaments across the U.S. 
+- Cost: Free to low-cost depending on region/team funding 
+- Dates: Build season in spring, tournaments through spring/summer 
+- Application Deadline: Rolling / team-based sign-up 
+- Target Audience: Middle and high school students interested in robotics, no experience required. 
+- Description: Teams design, build, and program autonomous robots to compete in tournament challenges — a strong hands-on entry point into robotics and embedded programming. 
+
+
+## Program 37: FIRST Robotics Competition (FRC) / FIRST Tech Challenge (FTC) - Organization: FIRST (For Inspiration and Recognition of Science and Technology) 
+- Location: School- or community-based teams across the U.S. and internationally 
+- Cost: Often free to join a team (team itself covers most costs via sponsorships/school funding) - Dates: Build season roughly January–April, competitions through spring 
+- Application Deadline: Rolling — join a local team any time 
+- Target Audience: High school students (FTC also open to younger students), no experience required. 
+- Description: Students join a team to design, build, and program a competitive robot. Widely recognized by colleges and a strong community-based entry point into robotics and engineering. 
+
+
+## Program 38: NIST SHIP (Summer High School Internship Program) 
+- Organization: National Institute of Standards and Technology (NIST) 
+- Location: NIST campuses (Gaithersburg, MD or Boulder, CO) 
+- Cost: Free (stipend provided) 
+- Dates: Summer, roughly 8 weeks 
+- Application Deadline: Typically due in winter/early spring 
+- Target Audience: High school students interested in STEM research, including tech, AI, and robotics placements. 
+- Description: A paid federal research internship placing students directly in NIST labs, including opportunities in AI and robotics research. 
+
+
+## Program 46: Kode With Klossy
+- Organization: Kode With Klossy
+- Location: Multiple US cities (Atlanta, Austin, Boston, Chicago, Denver, Dallas, Detroit, Los Angeles, Miami, Philadelphia, New York, Portland, St. Louis, San Francisco, Seattle, Washington D.C.)
+- Cost: Free
+- Dates: Two-week camps, summer
+- Application Deadline: Typically due in spring — check current cycle
+- Target Audience: Girls and gender-expansive youth ages 13–18, no coding experience required.
+- Description: Free two-week coding camps focused on web development, mobile app development, and data science, founded by Karlie Kloss. Camps culminate in a project showcase and also award career scholarships to alumni pursuing tech further.
+
+
+## Program 47: Technovation Girls
+- Organization: Technovation
+- Location: Online + local chapters in 60+ countries worldwide
+- Cost: Free
+- Dates: Season runs August–May, submission deadline in spring
+- Application Deadline: Rolling registration; project submission around April
+- Target Audience: Ages 8–18 worldwide (Beginner 8–12, Junior 13–15, Senior 16–18), no coding experience required.
+- Description: Teams build an AI product or app to solve a real problem in their community across a full season, guided by mentors, then compete regionally with a chance to advance to an international final. One of the largest global entry points into tech for girls.
+
+
+## Program 48: Django Girls
+- Organization: Django Girls (international nonprofit, founded in Poland)
+- Location: Online and in-person workshops in many countries and languages worldwide
+- Cost: Free
+- Dates: Rolling — local workshops scheduled throughout the year, check their site for the next one near you
+- Application Deadline: Rolling / N/A
+- Target Audience: Girls and students of marginalized genders worldwide, no experience required.
+- Description: Free one-day workshops teaching participants to build their first web application using HTML, CSS, Python, and Django. Workshops are volunteer-run and held in many countries and languages.
+
+
+## Program 49: CoderDojo
+- Organization: CoderDojo Foundation (part of Raspberry Pi Foundation)
+- Location: Global network of volunteer-led local clubs ("dojos")
+- Cost: Free
+- Dates: Rolling — local dojos meet regularly year-round
+- Application Deadline: Rolling / N/A
+- Target Audience: Young people ages 7–17, no experience required; not exclusively for girls, but many dojos run girls-focused sessions.
+- Description: A free, global network of volunteer-led coding clubs where young people learn to code, build websites, apps, and games in a relaxed, community environment.
+
+
+## Program 50: African Girls Can Code Initiative (AGCCI)
+- Organization: UN Women, African Union Commission, and International Telecommunication Union (ITU)
+- Location: Coding camps hosted across African countries (including Ethiopia, Kenya, South Africa, Tanzania, Uganda); also has an online course via ITU Academy
+- Cost: Free
+- Dates: In-person camps run about 10 days; online course is self-paced
+- Application Deadline: Rolling / varies by camp cycle
+- Target Audience: Young women and girls ages 17–25 (some components open to younger students via the online course).
+- Description: Equips young women with coding, UI/UX design, web production, digital literacy, and robotics skills, alongside leadership and problem-solving training, run by major international organizations.
+
+
+## Program 51: Black Girls Code
+- Organization: Black Girls Code (BGC)
+- Location: United States and South Africa, in-person chapters plus online programming
+- Cost: Free to low-cost depending on program
+- Dates: Rolling — workshops and programs run throughout the year
+- Application Deadline: Rolling / N/A
+- Target Audience: Black and brown girls ages 7–17, no experience required.
+- Description: Programming focused on introducing girls of color to computer programming, website building, robotics, and mobile app development, with the goal of increasing representation in tech.
+
+
+## Program 52: European Girls' Olympiad in Informatics (EGOI)
+- Organization: EGOI (rotating host country each year, under international committee)
+- Location: Rotating host country in Europe each year; teams represent their home country
+- Cost: Free (selected students represent their country, typically via a national selection process)
+- Dates: Annual competition, typically in summer
+- Application Deadline: Determined by each country's national selection process
+- Target Audience: Girls in secondary school with strong competitive programming/algorithms background.
+- Description: An international competitive programming olympiad exclusively for girls, similar in structure to the International Olympiad in Informatics but designed to build a pipeline of girls into competitive CS. Best suited for students already comfortable with algorithmic problem-solving.
+
+
+## Program 53: NYU CS4CS (Computer Science for Cyber Security)
+- Organization: New York University
+- Location: NYU (New York, NY)
+- Cost: Free
+- Dates: Summer
+- Application Deadline: Typically due in spring — check current cycle
+- Target Audience: NYC-area high school students, grades 9-12, no prior CS/cybersecurity experience required.
+- Description: An intensive introduction to computer science and cybersecurity covering white-hat hacking, cryptography, steganography, digital forensics, and privacy, designed specifically to build early cybersecurity talent.
+
+
+## Program 54: MIT Women's Technology Program (WTP)
+- Organization: Massachusetts Institute of Technology
+- Location: MIT (Cambridge, MA), residential
+- Cost: Free to apply; substantial need-based financial aid available
+- Dates: Four weeks, late June–late July
+- Application Deadline: Typically due in winter — check current cycle
+- Target Audience: High school students specifically after 11th grade (rising seniors), with strong math/science grades but little to no prior engineering background.
+- Description: Introduces mechanical engineering through hands-on classes, labs, and team-based projects taught by MIT graduate and undergraduate students. Designed for students unsure about engineering who want to explore whether it's the right fit.
+
+
+## Program 55: MIT Launch
+- Organization: Massachusetts Institute of Technology (run by MIT faculty)
+- Location: MIT (Cambridge, MA)
+- Cost: Paid, but need-based financial aid available
+- Dates: Four weeks, summer
+- Application Deadline: Check current cycle
+- Target Audience: High school students ages 13-18.
+- Description: An entrepreneurship program focused on venture creation, product development, and business fundamentals — a strong fit for a student who wants to build a tech-adjacent startup idea rather than pure coding.
+
+
+## Program 56: MITES Summer
+- Organization: Massachusetts Institute of Technology
+- Location: MIT (Cambridge, MA), residential
+- Cost: Free (tuition, room, and board fully covered; transportation not included)
+- Dates: Six weeks, late June through early August
+- Application Deadline: Applications open in fall, due in winter — check current cycle
+- Target Audience: High school juniors (rising seniors) only, U.S. citizens or permanent residents, with priority for students from underrepresented or underserved communities in STEM.
+- Description: A highly selective, intensive college-level academic program in science and engineering, including electives like Machine Learning and Engineering Design, alongside college-readiness support.
+
+
+## Program 57: NCWIT Aspirations in Computing (AiC) High School Award
+- Organization: National Center for Women & Information Technology (NCWIT)
+- Location: Online application; national and regional/affiliate recognition across all 50 states, DC, Puerto Rico, Guam, and Canada
+- Cost: Free
+- Dates: Application opens each fall; honorees announced the following spring
+- Application Deadline: Typically late October — check current cycle
+- Target Audience: High school students in grades 9-12 who are 13 or older, girls, genderqueer, and non-binary students specifically.
+- Description: Honors students for their computing-related achievements, leadership, and future plans, not just contest performance. Winners join a long-term community (the AiC Community) with access to scholarships, internships, and near-peer outreach opportunities. Good recommendation for a student building a "computing resume" even without a big flagship project yet.
+
+
+## Program 58: Diamond Challenge
+- Organization: Horn Entrepreneurship, University of Delaware
+- Location: Online submission; final summit typically in Delaware
+- Cost: Free
+- Dates: Opens in fall, submissions due in winter/spring — check current cycle
+- Application Deadline: Check current cycle
+- Target Audience: High school students ages 14-18 only, teams of 2-4.
+- Description: A global entrepreneurship competition where teams create, submit, and pitch an original business or social venture concept, with a $100K total prize pool across cycles. Good for a student who wants to pair a tech idea with real business/pitch skills.
+
+
+## Program 59: Google Code Next
+- Organization: Google
+- Location: In-person labs in Oakland (CA), Inglewood (CA), Chelsea (NY/Manhattan), and Detroit (MI); virtual "Connect" program available more broadly across the US and Canada
+- Cost: Free
+- Dates: Runs October through June (school year)
+- Application Deadline: Mid-August for in-person labs; rolling for the virtual track
+- Target Audience: High school students in grades 9-12, with a specific focus on Black, Latinx, Indigenous, and women-identifying students.
+- Description: A rigorous computer science curriculum with personalized coaching and a direct mentor relationship with Google engineers, covering web development, AI, game design, and hardware engineering (including 3D printing and robotics projects).
+
+
+## Program 60: All Star Code — Summer Intensive
+- Organization: All Star Code
+- Location: Virtual, with regional recruitment (multiple US cities, e.g. Houston)
+- Cost: Free
+- Dates: Six-week virtual program, July–August
+- Application Deadline: Check current cycle — has info sessions before applications close
+- Target Audience: Rising 9th through 12th graders, male-identifying students from historically underrepresented communities specifically. No prior coding experience required.
+- Description: Builds technical knowledge, AI fluency, and professional skills through a structured summer intensive aimed at opening tech career pathways. Note the gender-specific eligibility — good complement if your chatbot ever needs a resource for male students too.
+
+
+## Program 6: Regeneron Science Talent Search (STS)
+- Organization: Society for Science, sponsored by Regeneron
+- Location: Online application; finalists travel to Washington, D.C.
+- Cost: Free to enter
+- Dates: Application opens over the summer, due in November
+- Application Deadline: Mid-November — check current cycle
+- Target Audience: High school seniors only, U.S. citizens/permanent residents (or students at eligible US-affiliated schools).
+- Description: The oldest and most prestigious pre-college science and math research competition in the US. Requires an independent research project already completed — best suited as a "next step" recommendation for a student already doing research (e.g., after MITES, RSI, or a school science program), not a first entry point.
+
+
+## Program 75: VEX Robotics Competition (VRC)
+- Organization: Robotics Education & Competition (REC) Foundation
+- Location: Regional, state, and national events across the US and internationally; World Championship (recently held in cities like Dallas)
+- Cost: Registration and team equipment fees apply (some sponsorship/scholarship support available through local teams and REC Foundation grants)
+- Dates: Season runs roughly fall through spring, with the World Championship in spring
+- Application Deadline: Rolling — join a team any time during the season
+- Target Audience: High school students specifically (VRC is the high-school division; VEX IQ is the separate middle-school division).
+- Description: Teams of 2-3 students build and program a robot using the VEX V5 platform, competing in alliance-based matches with an autonomous period and driver-controlled period, plus a separate solo Robot Skills Challenge.
+
+
+## Program 76: World Robot Olympiad (WRO) — Senior High Category
+- Organization: World Robot Olympiad Association
+- Location: National qualifiers in 95+ countries, feeding into an international final (location rotates yearly)
+- Cost: Registration fees apply, varies by country/team
+- Dates: National competitions through the year, international final typically in fall
+- Application Deadline: Set by each country's national qualifying competition
+- Target Audience: The Senior High age category specifically covers ages 14-19 (WRO also has separate Elementary and Junior High categories for younger students, which are not part of this recommendation).
+- Description: An international robotics competition (RoboMission, RoboSports, Future Innovators, or Future Engineers tracks) using LEGO-based robotics platforms, with qualification through national competitions.
+
+
+## Program 77: Genesys Works
+- Organization: Genesys Works
+- Location: Multiple US cities (e.g., Houston, Chicago, Twin Cities, Bay Area, New York, Seattle — check which cities currently run programs)
+- Cost: Free (and pays students a stipend during the internship phase)
+- Dates: Summer training followed by a school-year paid internship
+- Application Deadline: Check current cycle by city
+- Target Audience: High school juniors and seniors specifically, prioritizing students from under-resourced communities.
+- Description: Combines a summer technical/professional skills training bootcamp with a paid corporate internship during senior year, aimed at building a direct pathway from high school into a tech-adjacent career or college.
+
+
+## Program 78: USA Computing Olympiad (USACO)
+- Organization: USA Computing Olympiad
+- Location: Online, worldwide
+- Cost: Free
+- Dates: Four online contests per year (December, January, February/March, open division in between), roughly monthly
+- Application Deadline: Rolling — register any time before a contest
+- Target Audience: Pre-college students (in practice, almost entirely high schoolers), no citizenship restriction to participate, though official USA team selection is US-specific.
+- Description: A free, self-paced competitive programming ladder (Bronze through Platinum divisions) that lets a student progress from beginner to advanced algorithmic programming at their own speed — a strong option for a student who wants to go deep on programming specifically, not just explore broadly.
+
+
+## Program 79: CyberPatriot — Open Division / All Service Division
+- Organization: Air & Space Forces Association
+- Location: Online, with regional and national final rounds in the US
+- Cost: Free to low registration fee per team (varies by year)
+- Dates: Season runs roughly October through spring, with the national finals in spring
+- Application Deadline: Team registration typically opens over the summer
+- Target Audience: The Open Division and All Service Division are specifically for high school students (CyberPatriot's separate Middle School Division is not included in this recommendation).
+- Description: The largest cyber defense competition in the US for high schoolers — teams act as IT professionals tasked with finding and fixing cybersecurity vulnerabilities in simulated networks, a strong entry point for a student specifically drawn to cybersecurity over general coding.
+
+
+## Program 80: American Computer Science League (ACSL) — Senior Division
+- Organization: American Computer Science League
+- Location: Contests run through participating schools, US and international
+- Cost: School/team registration fee applies (typically covered by the school's CS program)
+- Dates: Multiple contests through the school year, roughly October–April
+- Application Deadline: Set by each participating school's registration
+- Target Audience: The Senior Division is specifically for high school students (ACSL also has separate Elementary, Classroom, and Junior divisions not included here).
+- Description: A long-running, school-based programming and computer science contest series testing both programming problems and CS theory (data structures, algorithms, digital logic), good for a student already comfortable with a school CS class who wants to compete regularly through the year.
