@@ -144,10 +144,11 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
     # Changed history format tracking to 'type="messages"' to keep your RAG history perfectly synced.
     gr.ChatInterface(
         respond, 
-        examples = ["What tech opportunities can I apply for?", 
-                    "What programs are available for girls interested in technology?", "
-                     Give me ideas for a passion project in tech.", 
-                    "How can I start learning programming?"]
+        examples = ["What tech opportunities can I apply for?",
+                    "What programs are available for girls interested in technology?", 
+                    "Give me ideas for a passion project in tech", 
+                    "How can I start learning programming?"
+                   ],
         description="This Chatbot is for girls interested in tech who want more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from.",
     )
 # CHANGE 5: LAUNCH THE NEW 'demo' BLOCK INSTEAD OF THE OLD 'chatbot' WRAPPER
