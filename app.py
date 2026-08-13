@@ -126,59 +126,6 @@ def respond(message, history): #respond function
     )
     # return response.choices.message.content.strip()
     return response.choices[0].message.content.strip()
-career_matches = {
-    "Computer Science": {
-        "Software Engineer": 3,
-        "Data Scientist": 2
-    },
-
-    "Engineering": {
-        "Mechanical Engineer": 3,
-        "Aerospace Engineer": 3,
-        "Robotics Engineer": 3
-    },
-
-    "Biology": {
-        "Biomedical Engineer": 3,
-        "Research Scientist": 2
-    },
-
-    "Chemistry": {
-        "Chemical Engineer": 3,
-        "Materials Scientist": 2
-    },
-
-    "Physics and Space": {
-        "Aerospace Engineer": 3,
-        "Astrophysicist": 3
-    }
-}
-
-
-def career_quiz(subject):
-
-    scores = {}
-
-    if subject in career_matches:
-
-        for career, points in career_matches[subject].items():
-
-            scores[career] = points
-
-    ranked = sorted(
-        scores.items(),
-        key=lambda x: x[1],
-        reverse=True
-    )
-
-    result = "## 🌟 Your STEM Career Matches\n\n"
-
-    for i, (career, score) in enumerate(ranked, start=1):
-
-        result += f"### {i}. {career}\n"
-
-    return result
-
 
 with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
     # Custom HTML Banner
@@ -190,10 +137,9 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
         </div>
         """
     )
-app.launch()
     
     # ChatInterface with perfectly scrubbed example formatting
-gr.ChatInterface(
+    gr.ChatInterface(
         respond,
         examples=[
             ["What tech opportunities can I apply for?"],
