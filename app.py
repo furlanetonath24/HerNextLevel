@@ -123,7 +123,7 @@ def respond(message, history): #respond function
 
     return response.choices[0].message.content.strip()
     
-chatbot = gr.ChatInterface(respond, title = "Tech Quest: Her Next Level", description = "This Chatbot is for girls interested in tech who wnat more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from")
+chatbot = gr.ChatInterface(respond, title = "Tech Quest: Her Next Level", description = "This Chatbot is for girls interested in tech who wnat more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from", banner = "👩‍💻")
 chatbot.launch(theme=gr.Theme.from_hub("Ayaku/Aa"))
 
 
