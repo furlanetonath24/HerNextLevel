@@ -24,7 +24,7 @@ def preprocess_text(text):
   cleaned_text = text.strip()
 
   # Split the cleaned_text by every newline character (\n)
-  chunks = cleaned_text.split("\n")
+  chunks = cleaned_text.split("\n\n")
 
   # Create an empty list to store cleaned chunks
   cleaned_chunks = []
