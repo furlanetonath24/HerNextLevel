@@ -190,9 +190,6 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
         </div>
         """
     )
-            )
-
-
 app.launch()
     
     # ChatInterface with perfectly scrubbed example formatting
