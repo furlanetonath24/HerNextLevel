@@ -1,5 +1,7 @@
 import gradio as gr
 from huggingface_hub import InferenceClient
+from sentence_transformers import SentenceTransformer
+import torch
 
 # This is the same pattern from the Generative AI lesson! It uses the
 # Inference Provider API to send your messages to an AI model and get
@@ -12,8 +14,6 @@ from huggingface_hub import InferenceClient
 
 client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 
-from sentence_transformers import SentenceTransformer
-import torch
 
 with open("knowledge.txt", "r", encoding="utf-8") as file:
   # Read the entire contents of the file and store it in a variable
@@ -110,8 +110,12 @@ def respond(message, history): #respond function
     top_results = get_top_chunks(message, chunk_embeddings, cleaned_chunks) 
     messages = [{"role": "system", "content": f"You are a friendly chatbot. Use the following research context to help answer questions:\n\n{top_results}"}]
 
-    if history:
-        messages.extend(history)
+    # Safely format history for the client chat_completion API
+    for turn in history:
+        messages.append({"role": turn["role"], "content": turn["content"]})
+    
+ #   if history:
+ #       messages.extend(history)
 
     messages.append({"role": "user", "content": message})
 
@@ -122,9 +126,33 @@ def respond(message, history): #respond function
     )
 
     return response.choices[0].message.content.strip()
+
+with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
     
-chatbot = gr.ChatInterface(respond, title = "Tech Quest: Her Next Level", description = "This Chatbot is for girls interested in tech who wnat more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from", banner = "👩‍💻")
-chatbot.launch(theme=gr.Theme.from_hub("Ayaku/Aa"))
+    # CHANGE 3: CREATED THE HTML BANNER
+    # This creates a beautifully styled box at the top of your interface
+    gr.Markdown(
+        """
+        <div style="text-align: center; padding: 25px; background: linear-gradient(135deg, #6C5CE7, #A8A5FF); color: white; border-radius: 12px; margin-bottom: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            <h1 style="font-size: 2.6rem; margin: 0; font-family: sans-serif;">👩‍💻 Tech Quest: Her Next Level</h1>
+            <p style="font-size: 1.1rem; margin-top: 8px; opacity: 0.9;">Empowering young women in tech with elite opportunities, camps, and custom project guidance.</p>
+        </div>
+        """
+    )
+    
+    # CHANGE 4: PLACED THE CHAT INTERFACE INSIDE THE BLOCKS WRAPPER
+    # Changed history format tracking to 'type="messages"' to keep your RAG history perfectly synced.
+    gr.ChatInterface(
+        respond, 
+        type="messages",
+        description="This Chatbot is for girls interested in tech who want more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from.",
+    )
+# CHANGE 5: LAUNCH THE NEW 'demo' BLOCK INSTEAD OF THE OLD 'chatbot' WRAPPER
+demo.launch()
+
+    
+#chatbot = gr.ChatInterface(respond, title = "Tech Quest: Her Next Level", description = "This Chatbot is for girls interested in tech who wnat more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from", banner = "👩‍💻")
+#chatbot.launch(theme=gr.Theme.from_hub("Ayaku/Aa"))
 
 
 # TODO: This is just a starting point! Customize the system prompt,
