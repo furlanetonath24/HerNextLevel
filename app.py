@@ -190,51 +190,6 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
         </div>
         """
     )
-with gr.Blocks() as app:
-        # =========================
-        # RIGHT SIDE: CAREER QUIZ
-        # =========================
-
-        with gr.Column(scale=1):
-
-            gr.Markdown("""
-            ## 🌟 Career Explorer
-
-            Not sure what STEM career
-            is right for you?
-
-            Take our quick quiz!
-            """)
-
-            quiz_button = gr.Button("✨ Take the Quiz")
-
-            with gr.Column(visible=False) as quiz_area:
-
-                subject = gr.Radio(
-                    [
-                        "Computer Science",
-                        "Engineering",
-                        "Biology",
-                        "Chemistry",
-                        "Physics and Space"
-                    ],
-                    label="Which STEM subject interests you most?"
-                )
-
-                find_button = gr.Button("🔍 Find My Careers")
-
-                results = gr.Markdown()
-
-                find_button.click(
-                    career_quiz,
-                    inputs=subject,
-                    outputs=results
-                )
-
-
-            quiz_button.click(
-                lambda: gr.update(visible=True),
-                outputs=quiz_area
             )
 
 
