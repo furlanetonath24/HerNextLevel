@@ -124,13 +124,11 @@ def respond(message, history): #respond function
         max_tokens=1024,
         temperature = 0.7
     )
-
-    return response.choices[0].message.content.strip()
+    return response.choices.message.content.strip()
+    #return response.choices[0].message.content.strip()
 
 with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
-    
-    # CHANGE 3: CREATED THE HTML BANNER
-    # This creates a beautifully styled box at the top of your interface
+    # Custom HTML Banner
     gr.Markdown(
         """
         <div style="text-align: center; padding: 25px; background: linear-gradient(135deg, #6C5CE7, #A8A5FF); color: white; border-radius: 12px; margin-bottom: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -140,19 +138,20 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
         """
     )
     
-    # CHANGE 4: PLACED THE CHAT INTERFACE INSIDE THE BLOCKS WRAPPER
+    # ChatInterface with perfectly scrubbed example formatting
     gr.ChatInterface(
-        respond, 
-        examples = [
-                   ["What tech opportunities can I apply for?"],
-                   ["What programs are available for girls interested in technology?"], 
-                   ["Give me ideas for a passion project in tech"], 
-                   ["How can I start learning programming?"]
-                   ],
+        respond,
+        examples=[
+            ["What tech opportunities can I apply for?"],
+            ["What programs are available for girls interested in technology?"],
+            ["Give me ideas for a passion project in tech"],
+            ["How can I start learning programming?"]
+        ],
         description="This Chatbot is for girls interested in tech who want more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from.",
     )
-# CHANGE 5: LAUNCH THE NEW 'demo' BLOCK INSTEAD OF THE OLD 'chatbot' WRAPPER
+
 demo.launch()
+
 
     
 #chatbot = gr.ChatInterface(respond, title = "Tech Quest: Her Next Level", description = "This Chatbot is for girls interested in tech who wnat more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from", banner = "👩‍💻")
