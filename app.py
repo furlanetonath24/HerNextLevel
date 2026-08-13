@@ -255,7 +255,7 @@ with gr.Blocks() as app:
 app.launch()
     
     # ChatInterface with perfectly scrubbed example formatting
-    gr.ChatInterface(
+gr.ChatInterface(
         respond,
         examples=[
             ["What tech opportunities can I apply for?"],
