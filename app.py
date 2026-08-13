@@ -191,20 +191,6 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
         """
     )
 with gr.Blocks() as app:
-
-    with gr.Row():
-
-        # =========================
-        # LEFT SIDE: CHATBOT
-        # =========================
-
-        with gr.Column(scale=3):
-
-            gr.Markdown("# 💜 Girls in STEM")
-
-            chatbot = gr.ChatInterface(respond)
-
-
         # =========================
         # RIGHT SIDE: CAREER QUIZ
         # =========================
