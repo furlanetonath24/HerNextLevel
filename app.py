@@ -124,8 +124,8 @@ def respond(message, history): #respond function
         max_tokens=1024,
         temperature = 0.7
     )
-    return response.choices.message.content.strip()
-    #return response.choices[0].message.content.strip()
+    # return response.choices.message.content.strip()
+    return response.choices[0].message.content.strip()
 
 with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
     # Custom HTML Banner
