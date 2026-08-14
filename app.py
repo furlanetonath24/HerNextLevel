@@ -126,6 +126,61 @@ def respond(message, history): #respond function
     )
     # return response.choices.message.content.strip()
     return response.choices[0].message.content.strip()
+# =========================
+# CAREER QUIZ
+# =========================
+
+career_matches = {
+    "Computer Science": {
+        "Software Engineer": 3,
+        "Data Scientist": 2,
+        "Cybersecurity Analyst": 2
+    },
+
+    "Engineering": {
+        "Mechanical Engineer": 3,
+        "Aerospace Engineer": 3,
+        "Robotics Engineer": 3
+    },
+
+    "Biology": {
+        "Biomedical Engineer": 3,
+        "Research Scientist": 2
+    },
+
+    "Chemistry": {
+        "Chemical Engineer": 3,
+        "Materials Scientist": 2
+    },
+
+    "Physics and Space": {
+        "Aerospace Engineer": 3,
+        "Astrophysicist": 3
+    }
+}
+
+
+def career_quiz(subject):
+
+    scores = {}
+
+    if subject in career_matches:
+        for career, points in career_matches[subject].items():
+            scores[career] = points
+
+    ranked = sorted(
+        scores.items(),
+        key=lambda x: x[1],
+        reverse=True
+    )
+
+    result = "## 🌟 Your STEM Career Matches\n\n"
+
+    for i, (career, score) in enumerate(ranked, start=1):
+        result += f"### {i}. {career}\n"
+
+    return result
+
 
 with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
     # Custom HTML Banner
@@ -148,6 +203,39 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
             ["How can I start learning programming?"]
         ],
         description="This Chatbot is for girls interested in tech who want more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from.",
+    )
+    # =========================
+# CAREER QUIZ UI
+# =========================
+
+    gr.Markdown("---")
+
+    gr.Markdown("""
+    ## 🌟 STEM Career Explorer
+
+    Not sure what STEM career might be right for you?
+    Take this quick quiz!
+    """)
+
+    subject = gr.Radio(
+        [
+            "Computer Science",
+            "Engineering",
+            "Biology",
+            "Chemistry",
+            "Physics and Space"
+        ],
+        label="Which STEM subject interests you most?"
+    )
+
+    find_button = gr.Button("✨ Find My STEM Careers")
+
+    quiz_results = gr.Markdown()
+
+    find_button.click(
+        career_quiz,
+        inputs=subject,
+        outputs=quiz_results
     )
 
 demo.launch()
