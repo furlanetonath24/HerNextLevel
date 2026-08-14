@@ -1,0 +1,1093 @@
+STEM CAREER EXPLORATION KNOWLEDGE BASE
+
+==================================================
+SOFTWARE ENGINEER
+==================================================
+
+Career Category:
+Computer Science and Technology
+
+What is a Software Engineer?
+A software engineer designs, develops, tests, and maintains computer programs and applications. Software engineers can work on websites, mobile apps, games, artificial intelligence, operating systems, and many other types of technology.
+
+What do Software Engineers do?
+- Write and test computer code
+- Build websites, applications, and software
+- Fix bugs and improve existing programs
+- Work with databases and computer systems
+- Collaborate with designers, engineers, and other developers
+- Use problem-solving and logical thinking to create solutions
+
+Important Skills:
+- Programming
+- Problem-solving
+- Mathematics
+- Logical thinking
+- Creativity
+- Communication
+- Teamwork
+
+Recommended School Subjects:
+- Computer Science
+- Mathematics
+- Statistics
+- Physics
+
+Possible College Majors:
+- Computer Science
+- Software Engineering
+- Computer Engineering
+- Information Technology
+- Mathematics
+
+Recommended Projects:
+- Build a personal website
+- Create a simple mobile or web application
+- Make a chatbot
+- Create a beginner coding game
+- Build a program that solves a real-world problem
+
+Recommended Age:
+Students can begin exploring software engineering at any age. Coding projects can be adapted for elementary, middle school, high school, and college students.
+
+
+==================================================
+DATA SCIENTIST
+==================================================
+
+Career Category:
+Computer Science, Mathematics, and Data
+
+What is a Data Scientist?
+A data scientist uses mathematics, statistics, programming, and data analysis to find patterns and answer questions using data.
+
+What do Data Scientists do?
+- Collect and organize data
+- Analyze datasets
+- Create charts and visualizations
+- Find patterns and trends
+- Build predictive models
+- Communicate findings
+
+Important Skills:
+- Mathematics
+- Statistics
+- Programming
+- Data analysis
+- Problem-solving
+- Critical thinking
+- Communication
+
+Recommended School Subjects:
+- Mathematics
+- Statistics
+- Computer Science
+- Science
+
+Possible College Majors:
+- Data Science
+- Computer Science
+- Statistics
+- Mathematics
+- Applied Mathematics
+
+Recommended Projects:
+- Analyze school or community data
+- Create a data visualization
+- Analyze sports statistics
+- Build a simple prediction model
+- Create a survey and analyze the results
+
+Recommended Age:
+High school students can begin exploring data science through statistics, spreadsheets, Python, and beginner data projects.
+
+
+==================================================
+CYBERSECURITY ANALYST
+==================================================
+
+Career Category:
+Computer Science and Technology
+
+What is a Cybersecurity Analyst?
+A cybersecurity analyst helps protect computer systems, networks, applications, and information from unauthorized access and cyber threats.
+
+What do Cybersecurity Analysts do?
+- Monitor computer networks
+- Identify security problems
+- Analyze suspicious activity
+- Help protect sensitive information
+- Test security systems
+- Respond to cybersecurity incidents
+
+Important Skills:
+- Problem-solving
+- Computer science
+- Logical thinking
+- Attention to detail
+- Programming
+- Communication
+
+Recommended School Subjects:
+- Computer Science
+- Mathematics
+- Information Technology
+- Science
+
+Possible College Majors:
+- Cybersecurity
+- Computer Science
+- Information Technology
+- Computer Engineering
+
+Recommended Projects:
+- Create a cybersecurity awareness presentation
+- Learn basic networking concepts
+- Build a simple password-strength checker
+- Research common types of cyber threats
+- Learn about online privacy and digital security
+
+Recommended Age:
+Students can begin learning cybersecurity concepts in middle school and high school through safe, educational activities.
+
+
+==================================================
+MECHANICAL ENGINEER
+==================================================
+
+Career Category:
+Engineering
+
+What is a Mechanical Engineer?
+A mechanical engineer designs, builds, tests, and improves machines and mechanical systems.
+
+What do Mechanical Engineers do?
+- Design mechanical parts and machines
+- Use CAD software
+- Build and test prototypes
+- Analyze forces and motion
+- Work with materials
+- Solve engineering problems
+- Improve existing products
+
+Important Skills:
+- Mathematics
+- Physics
+- Design
+- Problem-solving
+- CAD
+- Creativity
+- Hands-on building
+
+Recommended School Subjects:
+- Mathematics
+- Physics
+- Engineering
+- Computer Science
+- Chemistry
+
+Possible College Majors:
+- Mechanical Engineering
+- Aerospace Engineering
+- Engineering Technology
+
+Recommended Projects:
+- Design a small mechanical device
+- Build a bridge or structure
+- Create a simple robot
+- Design something using CAD
+- Build a small vehicle or mechanical prototype
+
+Recommended Age:
+Students can explore mechanical engineering through building and design projects starting in elementary and middle school. More advanced projects are appropriate for high school students.
+
+
+==================================================
+AEROSPACE ENGINEER
+==================================================
+
+Career Category:
+Engineering and Space
+
+What is an Aerospace Engineer?
+An aerospace engineer designs, develops, tests, and improves aircraft, spacecraft, rockets, satellites, and other aerospace systems.
+
+What do Aerospace Engineers do?
+- Design aircraft and spacecraft
+- Study aerodynamics
+- Analyze forces and motion
+- Design propulsion systems
+- Test aerospace components
+- Use computer simulations
+- Solve complex engineering problems
+
+Important Skills:
+- Physics
+- Mathematics
+- Engineering
+- Problem-solving
+- Programming
+- Design
+- Creativity
+
+Recommended School Subjects:
+- Mathematics
+- Physics
+- Engineering
+- Computer Science
+- Chemistry
+
+Possible College Majors:
+- Aerospace Engineering
+- Mechanical Engineering
+- Electrical Engineering
+- Physics
+
+Recommended Projects:
+- Design and test a model aircraft
+- Build a water rocket
+- Research spacecraft missions
+- Create a simple rocket simulation
+- Design a spacecraft using CAD
+- Learn about orbital mechanics
+
+Recommended Age:
+Students can begin exploring aerospace through model aircraft, space research, physics activities, and engineering projects in middle school and high school.
+
+
+==================================================
+ROBOTICS ENGINEER
+==================================================
+
+Career Category:
+Engineering, Computer Science, and Robotics
+
+What is a Robotics Engineer?
+A robotics engineer designs, builds, programs, and tests robots and automated systems.
+
+What do Robotics Engineers do?
+- Design robots
+- Program robotic systems
+- Build mechanical components
+- Work with sensors
+- Test robotic systems
+- Combine mechanical, electrical, and computer engineering
+
+Important Skills:
+- Programming
+- Engineering
+- Mathematics
+- Electronics
+- Design
+- Problem-solving
+- Creativity
+
+Recommended School Subjects:
+- Computer Science
+- Mathematics
+- Physics
+- Engineering
+- Electronics
+
+Possible College Majors:
+- Robotics Engineering
+- Mechanical Engineering
+- Electrical Engineering
+- Computer Engineering
+- Computer Science
+
+Recommended Projects:
+- Build a beginner robot
+- Create an obstacle-avoiding robot
+- Program a robotic arm
+- Participate in a robotics competition
+- Design an automated system
+
+Recommended Age:
+Robotics is excellent for middle school and high school students because projects can be scaled from beginner to advanced levels.
+
+
+==================================================
+BIOMEDICAL ENGINEER
+==================================================
+
+Career Category:
+Engineering, Biology, and Healthcare
+
+What is a Biomedical Engineer?
+A biomedical engineer combines engineering, biology, and technology to create solutions for healthcare and medicine.
+
+What do Biomedical Engineers do?
+- Design medical devices
+- Develop prosthetics
+- Work with medical imaging technology
+- Create assistive technologies
+- Study biological systems
+- Develop healthcare technologies
+
+Important Skills:
+- Biology
+- Engineering
+- Mathematics
+- Chemistry
+- Problem-solving
+- Research
+- Creativity
+
+Recommended School Subjects:
+- Biology
+- Chemistry
+- Physics
+- Mathematics
+- Engineering
+
+Possible College Majors:
+- Biomedical Engineering
+- Bioengineering
+- Mechanical Engineering
+- Electrical Engineering
+- Biology
+
+Recommended Projects:
+- Research prosthetic technology
+- Design an assistive device
+- Research medical imaging
+- Create a model of a human body system
+- Explore wearable health technology
+
+Recommended Age:
+High school students can explore biomedical engineering through biology, engineering, research, and healthcare technology projects.
+
+
+==================================================
+CHEMICAL ENGINEER
+==================================================
+
+Career Category:
+Engineering and Chemistry
+
+What is a Chemical Engineer?
+A chemical engineer uses chemistry, physics, mathematics, and engineering to develop and improve processes for producing materials and products.
+
+What do Chemical Engineers do?
+- Design chemical processes
+- Develop materials and products
+- Work with manufacturing systems
+- Improve production efficiency
+- Study chemical reactions
+- Help develop sustainable processes
+
+Important Skills:
+- Chemistry
+- Mathematics
+- Physics
+- Problem-solving
+- Research
+- Engineering
+
+Recommended School Subjects:
+- Chemistry
+- Mathematics
+- Physics
+- Biology
+
+Possible College Majors:
+- Chemical Engineering
+- Chemistry
+- Materials Science
+
+Recommended Projects:
+- Research sustainable materials
+- Explore water purification
+- Study chemical reactions
+- Research renewable fuels
+- Create a chemistry-based experiment
+
+Recommended Age:
+High school students can begin exploring chemical engineering through chemistry, environmental science, and engineering projects.
+
+
+==================================================
+ENVIRONMENTAL ENGINEER
+==================================================
+
+Career Category:
+Engineering and Environmental Science
+
+What is an Environmental Engineer?
+An environmental engineer uses engineering and science to solve environmental problems and protect natural resources and communities.
+
+What do Environmental Engineers do?
+- Develop water treatment systems
+- Study pollution
+- Improve waste management
+- Develop sustainable technologies
+- Work on clean energy systems
+- Help protect air, water, and soil
+
+Important Skills:
+- Science
+- Engineering
+- Mathematics
+- Problem-solving
+- Research
+- Sustainability
+
+Recommended School Subjects:
+- Environmental Science
+- Biology
+- Chemistry
+- Mathematics
+- Physics
+
+Possible College Majors:
+- Environmental Engineering
+- Civil Engineering
+- Environmental Science
+- Chemical Engineering
+
+Recommended Projects:
+- Research local water quality
+- Design a water filtration system
+- Research renewable energy
+- Create a recycling project
+- Study air pollution
+- Design a sustainable community
+
+Recommended Age:
+Students can explore environmental engineering through sustainability and science projects starting in middle school and continuing through high school.
+
+
+==================================================
+ASTROPHYSICIST
+==================================================
+
+Career Category:
+Physics, Mathematics, and Space Science
+
+What is an Astrophysicist?
+An astrophysicist studies the physics of stars, planets, galaxies, black holes, and other objects and phenomena in the universe.
+
+What do Astrophysicists do?
+- Study stars and galaxies
+- Analyze astronomical data
+- Study the origins and behavior of the universe
+- Use physics and mathematics
+- Develop computer simulations
+- Conduct scientific research
+
+Important Skills:
+- Physics
+- Mathematics
+- Research
+- Programming
+- Critical thinking
+- Problem-solving
+
+Recommended School Subjects:
+- Physics
+- Mathematics
+- Computer Science
+- Chemistry
+
+Possible College Majors:
+- Physics
+- Astrophysics
+- Astronomy
+- Mathematics
+- Engineering
+
+Recommended Projects:
+- Track the Moon
+- Research a space mission
+- Analyze astronomy data
+- Create a model of the solar system
+- Learn about black holes
+- Study planetary motion
+
+Recommended Age:
+Students can explore astronomy and astrophysics at any age. More advanced physics and mathematics are especially appropriate for high school students.
+
+
+==================================================
+RESEARCH SCIENTIST
+==================================================
+
+Career Category:
+Science and Research
+
+What is a Research Scientist?
+A research scientist investigates questions about the natural world through experiments, data analysis, and scientific research.
+
+What do Research Scientists do?
+- Develop research questions
+- Conduct experiments
+- Collect and analyze data
+- Read scientific literature
+- Present research findings
+- Develop new scientific knowledge
+
+Important Skills:
+- Research
+- Mathematics
+- Science
+- Critical thinking
+- Communication
+- Data analysis
+- Curiosity
+
+Possible Fields:
+- Biology
+- Chemistry
+- Physics
+- Environmental Science
+- Materials Science
+- Neuroscience
+- Astronomy
+
+Recommended Projects:
+- Conduct a science experiment
+- Research a scientific question
+- Create a science fair project
+- Analyze scientific data
+- Read and summarize scientific research
+
+Recommended Age:
+Students can begin exploring scientific research through science fair projects and independent research during middle school and high school.
+
+
+==================================================
+MATERIALS SCIENTIST
+==================================================
+
+Career Category:
+Chemistry, Physics, and Engineering
+
+What is a Materials Scientist?
+A materials scientist studies how materials are created, structured, and used. They develop materials with specific properties for technologies and products.
+
+What do Materials Scientists do?
+- Study metals, plastics, ceramics, and other materials
+- Develop new materials
+- Test material properties
+- Research sustainable materials
+- Work with engineers and scientists
+- Improve materials used in technology
+
+Important Skills:
+- Chemistry
+- Physics
+- Mathematics
+- Research
+- Engineering
+- Problem-solving
+
+Recommended School Subjects:
+- Chemistry
+- Physics
+- Mathematics
+- Engineering
+
+Possible College Majors:
+- Materials Science and Engineering
+- Chemical Engineering
+- Chemistry
+- Physics
+- Mechanical Engineering
+
+Recommended Projects:
+- Research biodegradable materials
+- Compare material properties
+- Research sustainable packaging
+- Study how materials respond to heat
+- Create a materials science experiment
+
+Recommended Age:
+High school students can begin exploring materials science through chemistry, physics, engineering, and sustainability projects.
+
+
+==================================================
+CIVIL ENGINEER
+==================================================
+
+Career Category:
+Engineering, Infrastructure, and Construction
+
+What is a Civil Engineer?
+A civil engineer designs, builds, and maintains infrastructure that communities use every day. This can include roads, bridges, buildings, transportation systems, water systems, and other structures.
+
+What do Civil Engineers do?
+- Design roads and bridges
+- Design buildings and structures
+- Develop transportation systems
+- Work on water and wastewater systems
+- Analyze soil and construction materials
+- Create plans using engineering software
+- Help make infrastructure safer and more sustainable
+
+Important Skills:
+- Mathematics
+- Physics
+- Engineering
+- Design
+- Problem-solving
+- Project management
+- Communication
+
+Recommended School Subjects:
+- Mathematics
+- Physics
+- Engineering
+- Environmental Science
+- Computer Science
+
+Possible College Majors:
+- Civil Engineering
+- Structural Engineering
+- Environmental Engineering
+- Construction Engineering
+
+Recommended Projects:
+- Build and test a bridge using simple materials
+- Design a model city
+- Research how bridges handle forces
+- Design a water filtration system
+- Create a sustainable neighborhood
+- Use CAD to design a simple structure
+
+Recommended Age:
+Middle and high school students can explore civil engineering through bridge-building, architecture, structures, sustainability, and community design projects.
+
+
+==================================================
+ELECTRICAL ENGINEER
+==================================================
+
+Career Category:
+Engineering, Electronics, and Technology
+
+What is an Electrical Engineer?
+An electrical engineer designs and develops electrical systems, circuits, electronics, power systems, and technologies.
+
+What do Electrical Engineers do?
+- Design electrical circuits
+- Develop electronic devices
+- Work with power systems
+- Design sensors and control systems
+- Develop communication technologies
+- Test electrical components
+
+Important Skills:
+- Mathematics
+- Physics
+- Electronics
+- Programming
+- Problem-solving
+- Design
+- Critical thinking
+
+Recommended School Subjects:
+- Mathematics
+- Physics
+- Computer Science
+- Engineering
+
+Possible College Majors:
+- Electrical Engineering
+- Computer Engineering
+- Electronics Engineering
+
+Recommended Projects:
+- Build a simple circuit
+- Create an LED project
+- Build a small sensor system
+- Learn about renewable energy systems
+- Create a basic electronic device
+
+Recommended Age:
+Middle and high school students can begin exploring electrical engineering through circuits, electronics kits, robotics, and beginner programming.
+
+
+==================================================
+COMPUTER ENGINEER
+==================================================
+
+Career Category:
+Computer Science, Electrical Engineering, and Technology
+
+What is a Computer Engineer?
+A computer engineer combines computer science and electrical engineering to design computer hardware and systems.
+
+What do Computer Engineers do?
+- Design computer hardware
+- Develop embedded systems
+- Work with processors and circuits
+- Program hardware
+- Design computing systems
+- Develop technologies that combine hardware and software
+
+Important Skills:
+- Programming
+- Mathematics
+- Electronics
+- Computer science
+- Problem-solving
+- Engineering
+
+Recommended School Subjects:
+- Computer Science
+- Mathematics
+- Physics
+- Engineering
+- Electronics
+
+Possible College Majors:
+- Computer Engineering
+- Electrical Engineering
+- Computer Science
+
+Recommended Projects:
+- Build a basic computer
+- Program a microcontroller
+- Create an embedded system
+- Build a simple electronic game
+- Design a hardware/software project
+
+Recommended Age:
+High school students can begin exploring computer engineering through programming, electronics, robotics, and microcontroller projects.
+
+
+==================================================
+CHEMICAL RESEARCH SCIENTIST
+==================================================
+
+Career Category:
+Chemistry and Scientific Research
+
+What is a Chemical Research Scientist?
+A chemical research scientist studies substances and chemical reactions to understand how materials behave and to develop new products, technologies, and processes.
+
+What do Chemical Research Scientists do?
+- Conduct laboratory experiments
+- Study chemical reactions
+- Develop new materials
+- Analyze substances
+- Use scientific instruments
+- Record and analyze experimental data
+
+Important Skills:
+- Chemistry
+- Mathematics
+- Research
+- Laboratory skills
+- Critical thinking
+- Data analysis
+- Attention to detail
+
+Recommended School Subjects:
+- Chemistry
+- Biology
+- Physics
+- Mathematics
+
+Possible College Majors:
+- Chemistry
+- Chemical Engineering
+- Materials Science
+- Biochemistry
+
+Recommended Projects:
+- Conduct safe chemistry experiments
+- Research sustainable chemistry
+- Study material properties
+- Research water purification
+- Explore how chemical reactions are used in everyday products
+
+Recommended Age:
+High school students can explore chemical research through supervised laboratory activities, science fairs, and chemistry research projects.
+
+
+==================================================
+ENVIRONMENTAL SCIENTIST
+==================================================
+
+Career Category:
+Environmental Science and Research
+
+What is an Environmental Scientist?
+An environmental scientist studies the natural environment and investigates ways to understand and address environmental problems.
+
+What do Environmental Scientists do?
+- Study ecosystems
+- Monitor environmental conditions
+- Analyze soil and water
+- Study pollution
+- Collect environmental data
+- Research climate and environmental changes
+
+Important Skills:
+- Biology
+- Chemistry
+- Research
+- Data analysis
+- Mathematics
+- Fieldwork
+- Critical thinking
+
+Recommended School Subjects:
+- Biology
+- Chemistry
+- Environmental Science
+- Mathematics
+- Earth Science
+
+Possible College Majors:
+- Environmental Science
+- Biology
+- Ecology
+- Environmental Studies
+- Chemistry
+
+Recommended Projects:
+- Conduct a local biodiversity survey
+- Research water quality
+- Study local pollution
+- Analyze environmental data
+- Research conservation efforts
+- Create a sustainability project
+
+Recommended Age:
+Middle and high school students can explore environmental science through nature observations, data collection, sustainability projects, and science research.
+
+
+==================================================
+BIOMEDICAL SCIENTIST
+==================================================
+
+Career Category:
+Biology, Medicine, and Scientific Research
+
+What is a Biomedical Scientist?
+A biomedical scientist conducts research to better understand diseases, cells, biological processes, and human health.
+
+What do Biomedical Scientists do?
+- Study cells and biological systems
+- Research diseases
+- Analyze biological data
+- Conduct laboratory experiments
+- Investigate potential treatments
+- Study genetics and molecular biology
+
+Important Skills:
+- Biology
+- Chemistry
+- Research
+- Data analysis
+- Critical thinking
+- Laboratory skills
+
+Recommended School Subjects:
+- Biology
+- Chemistry
+- Mathematics
+- Physics
+
+Possible College Majors:
+- Biology
+- Biochemistry
+- Biomedical Science
+- Neuroscience
+- Molecular Biology
+
+Recommended Projects:
+- Research a disease
+- Study human body systems
+- Explore genetics
+- Analyze publicly available health data
+- Create a research presentation about a biomedical topic
+
+Recommended Age:
+High school students can explore biomedical science through biology research, science fairs, and supervised laboratory experiences.
+
+
+==================================================
+NUCLEAR ENGINEER
+==================================================
+
+Career Category:
+Engineering, Physics, and Energy
+
+What is a Nuclear Engineer?
+A nuclear engineer applies physics and engineering principles to nuclear energy, radiation systems, and technologies.
+
+What do Nuclear Engineers do?
+- Design and analyze nuclear systems
+- Work with energy systems
+- Study radiation and nuclear processes
+- Develop safety systems
+- Work on nuclear energy technologies
+- Analyze complex engineering systems
+
+Important Skills:
+- Physics
+- Mathematics
+- Engineering
+- Problem-solving
+- Computer modeling
+- Research
+
+Recommended School Subjects:
+- Physics
+- Mathematics
+- Chemistry
+- Engineering
+- Computer Science
+
+Possible College Majors:
+- Nuclear Engineering
+- Mechanical Engineering
+- Physics
+- Electrical Engineering
+
+Recommended Projects:
+- Research how nuclear energy works
+- Study different energy sources
+- Create an energy comparison project
+- Research nuclear fusion and fission
+- Explore radiation science through educational resources
+
+Recommended Age:
+High school students can explore nuclear engineering through physics, energy research, mathematics, and educational projects.
+
+
+==================================================
+INDUSTRIAL ENGINEER
+==================================================
+
+Career Category:
+Engineering, Manufacturing, and Systems
+
+What is an Industrial Engineer?
+An industrial engineer improves systems and processes so that people, machines, materials, and resources work together more efficiently.
+
+What do Industrial Engineers do?
+- Improve manufacturing processes
+- Analyze systems
+- Reduce waste
+- Improve efficiency
+- Study how people interact with systems
+- Use data to improve operations
+
+Important Skills:
+- Mathematics
+- Data analysis
+- Problem-solving
+- Engineering
+- Organization
+- Communication
+- Critical thinking
+
+Recommended School Subjects:
+- Mathematics
+- Computer Science
+- Physics
+- Engineering
+- Statistics
+
+Possible College Majors:
+- Industrial Engineering
+- Systems Engineering
+- Operations Research
+- Manufacturing Engineering
+
+Recommended Projects:
+- Analyze how people move through a school or event
+- Design a more efficient process
+- Study manufacturing systems
+- Create a project that reduces waste
+- Use data to improve a real-world process
+
+Recommended Age:
+High school students can explore industrial engineering through data analysis, optimization challenges, design projects, and process-improvement activities.
+
+
+==================================================
+STEM CAREER EXPLORATION BY INTEREST
+==================================================
+
+If a student enjoys coding:
+Recommended careers include:
+- Software Engineer
+- Data Scientist
+- Cybersecurity Analyst
+- Robotics Engineer
+- Computer Engineer
+
+If a student enjoys building and designing:
+Recommended careers include:
+- Mechanical Engineer
+- Civil Engineer
+- Aerospace Engineer
+- Robotics Engineer
+- Electrical Engineer
+
+If a student enjoys space:
+Recommended careers include:
+- Aerospace Engineer
+- Astrophysicist
+- Mechanical Engineer
+- Electrical Engineer
+- Software Engineer
+
+If a student enjoys biology and healthcare:
+Recommended careers include:
+- Biomedical Engineer
+- Biomedical Scientist
+- Research Scientist
+
+If a student enjoys chemistry:
+Recommended careers include:
+- Chemical Engineer
+- Chemical Research Scientist
+- Materials Scientist
+- Biomedical Scientist
+
+If a student enjoys physics and mathematics:
+Recommended careers include:
+- Aerospace Engineer
+- Mechanical Engineer
+- Civil Engineer
+- Astrophysicist
+- Electrical Engineer
+- Nuclear Engineer
+
+If a student enjoys helping people through technology:
+Recommended careers include:
+- Biomedical Engineer
+- Software Engineer
+- Robotics Engineer
+- Civil Engineer
+- Environmental Engineer
+
+If a student enjoys protecting the environment:
+Recommended careers include:
+- Environmental Engineer
+- Environmental Scientist
+- Chemical Engineer
+- Materials Scientist
+- Civil Engineer
+
+If a student enjoys electronics:
+Recommended careers include:
+- Electrical Engineer
+- Computer Engineer
+- Robotics Engineer
+- Computer Scientist
+
+If a student enjoys solving real-world community problems:
+Recommended careers include:
+- Civil Engineer
+- Environmental Engineer
+- Industrial Engineer
+- Mechanical Engineer
+- Electrical Engineer
