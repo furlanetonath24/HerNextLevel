@@ -464,7 +464,7 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
                     "research",
                     "environmental solutions",
                     "space",
-                    "problem_solving
+                    "problem_solving"
                 ],
                 label="6. What impact would you most like your STEM career to have?"
              )
