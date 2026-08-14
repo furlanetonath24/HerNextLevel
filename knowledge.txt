@@ -1,0 +1,1158 @@
+# High School Math and STEM Summer Programs Knowledge Base
+
+## Program 1: IMA-MathCEP Math Modeling Camp
+- Organization: University of Minnesota
+- Location: University of Minnesota (Non-residential, Twin Cities preference)
+- Cost: Free
+- Dates: June 22–June 26
+- Application Deadline: May 31
+- Target Audience: High school students who have completed Calculus.
+- Description: High schoolers use mathematical models to analyze real-world situations, such as traffic flow on a bridge or the impact of climate change on natural resources. Requires a math teacher recommendation.
+
+## Program 2: SUMaC (Stanford University Math Camp)
+- Organization: Stanford University
+- Location: Online and Stanford University (Residential)
+- Cost: Online $3,750 | Residential $8,950
+- Dates: Online Session 1 (June 15–July 3), Online Session 2 (July 6–July 24), Residential Session (June 21–July 17)
+- Application Deadline: February 2
+- Target Audience: Academically advanced high school students.
+- Description: Offers intensive online and residential experiences in advanced mathematics through lectures, guided research, and group problem-solving. Enrolls 64 virtual and 40 residential students.
+
+## Program 3: IDEA MATH Camp
+- Organization: IDEA MATH
+- Location: Online, Dallas Area (TX), Greater Boston Area (MA), California Bay Area (CA)
+- Cost: $1,395 – $2,895
+- Dates: Varies by location
+- Application Deadline: Rolling / N/A
+- Target Audience: High school math students seeking enrichment.
+- Description: Combines interactive teaching, group learning, and seminar lectures in algebra, combinatorics, geometry, and number theory.
+
+## Program 4: Canada/USA Mathcamp
+- Organization: Canada/USA Mathcamp
+- Location: Champlain College
+- Cost: $7,500 (Financial aid available)
+- Dates: June 28–August 2
+- Application Deadline: February 23
+- Target Audience: High school students with high potential in math.
+- Description: A 5-week residential summer camp enrolling 65 new students and 55 alumni. Admissions require a Qualifying Quiz, personal essay, and recommendations.
+
+## Program 5: Summer Academy for Math and Science (SAMS)
+- Organization: Carnegie Mellon University
+- Location: Carnegie Mellon University (Pittsburgh, PA)
+- Cost: Free
+- Dates: June 20–August 1
+- Application Deadline: February 1
+- Target Audience: High school juniors from underrepresented, low-income, or historically under-resourced backgrounds.
+- Description: A free 6-week residential program encouraging diversity and inclusion in STEM. Students build math and science skills under Carnegie Mellon faculty.
+
+## Program 6: AlphaStar In-Person Academy Summer Math Camp
+- Organization: AlphaStar Academy
+- Location: Online and Cupertino, CA
+- Cost: $1,150 – $3,550
+- Dates: Session 1 (June 8–26), Session 2 (June 29–July 17), Session 3 (July 20–August 7)
+- Application Deadline: Rolling / N/A
+- Target Audience: Students training for competitive math contests.
+- Description: 3-week intensive training for math competitions covering algebra, counting, geometry, and number theory.
+
+## Program 7: AwesomeMath Summer Program
+- Organization: AwesomeMath
+- Location: Online
+- Cost: $1,275 – $1,575
+- Dates: Session 1 (June 8–26), Session 2 (June 29–July 17), Session 3 (July 20–August 7)
+- Application Deadline: May 26
+- Target Audience: Students preparing for AMC10/12, USA(J)MO, and AIME competitions.
+- Description: 3-week online course focusing on advanced problem-solving skills and competition mathematics.
+
+## Program 8: The Ross Mathematics Program
+- Organization: Ross Program
+- Location: Otterbein University and Rose-Hulman Institute of Technology
+- Cost: $7,500
+- Dates: June 14–July 24
+- Application Deadline: March 8
+- Target Audience: Motivated pre-college students.
+- Description: A 6-week residential experience encouraging students to explore mathematical topics deeply through challenging problem sets.
+
+## Program 9: Research Science Institute (RSI)
+- Organization: Center for Excellence in Education / MIT
+- Location: Massachusetts Institute of Technology (Cambridge, MA)
+- Cost: Free
+- Dates: June 28–August 8
+- Application Deadline: December 10
+- Target Audience: High school juniors with exceptional achievements in STEM.
+- Description: Prestigious 6-week program combining 1 week of STEM coursework with 5 weeks of individual research projects under mentorship.
+
+## Program 10: MathILy
+- Organization: Bryn Mawr College
+- Location: Bryn Mawr College (Bryn Mawr, PA)
+- Cost: $6,175
+- Dates: June 28–August 1
+- Application Deadline: April 28
+- Target Audience: High school math enthusiasts.
+- Description: 5-week residential program focused on inquiry-based math lessons (~7 hours daily) led by PhD mathematicians.
+
+## Program 11: Michigan Math & Science Scholars (MMSS)
+- Organization: University of Michigan
+- Location: University of Michigan (Ann Arbor, MI)
+- Cost: $2,600 per session
+- Dates: Session 1 (June 21–July 3), Session 2 (July 5–17), Session 3 (July 19–31)
+- Application Deadline: Rolling
+- Target Audience: High school sophomores, juniors, and seniors.
+- Description: 2-week residential modules introducing current developments and university-level research in math and science.
+
+## Program 12: STEM Workshop at Hofstra University
+- Organization: Hofstra University
+- Location: Hofstra University (Hempstead, NY)
+- Cost: $2,400
+- Dates: June 29–July 10
+- Application Deadline: Rolling / N/A
+- Target Audience: Students in grades 6–10.
+- Description: Combines hands-on STEM career exploration activities with traditional day camp activities.
+
+## Program 13: HCSSiM (Hampshire College Summer Studies in Mathematics)
+- Organization: Hampshire College
+- Location: Hampshire College (Amherst, MA)
+- Cost: $7,208 (Free for domestic families earning under $85,000/year)
+- Dates: June 28–August 8
+- Application Deadline: Rolling / N/A
+- Target Audience: Highly motivated high school math students.
+- Description: 6-week active college-level math program involving workshops, lectures, maxi-courses, and mini-courses.
+
+## Program 14: PROMYS (Program in Mathematics for Young Students)
+- Organization: Boston University
+- Location: Boston University (Boston, MA)
+- Cost: $8,000 (Free for domestic families earning under $80,000/year)
+- Dates: June 28–August 8
+- Application Deadline: February 27
+- Target Audience: High school students age 14 and older.
+- Description: 6-week residential math program exploring creative mathematics alongside undergraduate counselors and research mathematicians.
+
+## Program 15: UPenn Mathematics Academy
+- Organization: University of Pennsylvania
+- Location: University of Pennsylvania (Philadelphia, PA)
+- Cost: $6,700 (Free for Philadelphia public/charter school students)
+- Dates: July 11–July 25
+- Application Deadline: Rolling
+- Target Audience: High school students interested in advanced math topics.
+- Description: Residential program introducing non-Euclidean geometry, topology, game theory, combinatorics, graph theory, and mathematical logic.
+
+## Program 16: Rutgers Young Scholars Program in Discrete Mathematics
+- Organization: Rutgers University
+- Location: Rutgers University (New Brunswick, NJ)
+- Cost: $4,800
+- Dates: July 6–July 31
+- Application Deadline: Rolling
+- Target Audience: High school students considering math careers.
+- Description: 4-week program focusing on discrete mathematics and career opportunities (students reside on campus weekdays, returning home weekends).
+
+## Program 17: Illinois Tech Math in Action
+- Organization: Illinois Institute of Technology
+- Location: Online
+- Cost: $300
+- Dates: June 15–June 19
+- Application Deadline: May 8
+- Target Audience: Rising 9th through 12th graders.
+- Description: 1-week online workshop developing abstract reasoning, problem-solving, and mathematical communication.
+
+## Program 18: Summer Math Program for Young Scholars at NYU
+- Organization: New York University (NYU)
+- Location: NYU (New York, NY)
+- Cost: $2,500
+- Dates: August 10–August 28
+- Application Deadline: March 31
+- Target Audience: High school students in grades 9–12.
+- Description: 3-week introduction to college math topics like graph theory, computer science, knot theory, and number theory.
+
+## Program 19: Young Scholars Program (YSP) at UChicago
+- Organization: University of Chicago
+- Location: University of Chicago (Chicago, IL)
+- Cost: $250 – $1,000 (Income-based sliding scale, scholarships available)
+- Dates: June 29–July 24
+- Application Deadline: April 10
+- Target Audience: Chicago-area students in grades 7–12.
+- Description: 4-week day program covering advanced mathematical topics (e.g., number theory).
+
+## Program 20: Simons Summer Research Program
+- Organization: Stony Brook University
+- Location: Stony Brook University (Stony Brook, NY)
+- Cost: Free
+- Dates: June 29–August 7
+- Application Deadline: February 5
+- Target Audience: High school juniors.
+- Description: Hands-on research program in STEM culminating in a research poster and symposium presentation.
+
+## Program 21: New York Math Circle (NYMC) Summer Program
+- Organization: New York Math Circle
+- Location: Online and NYU (New York, NY)
+- Cost: $850 – $1,195
+- Dates: July 21–August 7
+- Application Deadline: April 5
+- Target Audience: High school math students.
+- Description: Problem-solving program categorized into sections based on a qualifying placement exam.
+
+## Program 22: COSMOS (California State Summer School for Mathematics & Science)
+- Organization: University of California System
+- Location: UC Davis, UC Irvine, UCLA, UC Merced, UC San Diego, UC Santa Cruz
+- Cost: $5,518
+- Dates: July 5–August 1 (Varies slightly by campus)
+- Application Deadline: February 7
+- Target Audience: California residents in grades 8–12 with a GPA of 3.5+.
+- Description: Selective 4-week residential STEM program offering hands-on, lab-intensive course clusters.
+
+## Program 23: LSU Math Circle
+- Organization: Louisiana State University
+- Location: Online
+- Cost: $1,200
+- Dates: Session 1 (June 8–27), Session 2 (July 13–August 1)
+- Application Deadline: Rolling / N/A
+- Target Audience: High school students in grades 9–12.
+- Description: 3-week mentored online program focused on college-level math foundation and ending with a capstone poster project.
+
+## Program 24: My Introduction to Engineering (MITE)
+- Organization: University of Texas at Austin
+- Location: UT Austin (Austin, TX)
+- Cost: $200
+- Dates: Session 1 (June 21–25), Session 2 (July 12–16)
+- Application Deadline: March 1
+- Target Audience: High school juniors.
+- Description: 5-day residential engineering exploration camp involving hands-on projects and campus life experience.
+
+## Program 25: PZMC Number Theory Camp
+- Organization: Williams College
+- Location: Williams College (Williamstown, MA)
+- Cost: $3,100
+- Dates: June 29–July 10
+- Application Deadline: April 24
+- Target Audience: High school students who have completed Algebra 2.
+- Description: Intimate residential camp (28–35 students) focused on number theory, lectures, and group problem-solving.
+
+## Program 26: G2 Math Program
+- Organization: Massachusetts Institute of Technology (MIT)
+- Location: MIT (Cambridge, MA)
+- Cost: Free (Covers housing, meals, and up to $500 in travel/flight expenses)
+- Dates: July 10–July 26
+- Application Deadline: March 1
+- Target Audience: Female and nonbinary high school students (age 14+).
+- Description: Dedicated program for female and nonbinary students seeking to study Olympiad-level mathematics, problem-solving, and build a peer network in Boston.
+
+## Program 27: Mathworks Honors Summer Math Camp
+- Organization: Texas State University
+- Location: Texas State University (San Marcos, TX)
+- Cost: $6,600 (Financial aid available)
+- Dates: June 21–August 1
+- Application Deadline: Rolling
+- Target Audience: High school math students.
+- Description: 6-week competitive residential program focusing on problem-solving, research, and collaborative math/engineering learning.
+
+## Program 28: √mathroots @ MIT
+- Organization: MIT
+- Location: MIT (Cambridge, MA)
+- Cost: Free
+- Dates: July 1–July 15
+- Application Deadline: March 3
+- Target Audience: Talented students ages 14–18 (Precalculus recommended).
+- Description: 2-week residential camp designed to introduce promising young mathematicians to creative and rigorous math concepts.
+
+## Program 29: RIT Math Summer Workshop
+- Organization: Rochester Institute of Technology
+- Location: RIT (Rochester, NY)
+- Cost: Free
+- Dates: June 29–July 3
+- Application Deadline: Rolling / N/A
+- Target Audience: High school students (Commuter program).
+- Description: 1-week workshop exploring probability, polynomials, mechanical gadgets, and mathematical biology alongside RIT professors.
+
+## Program 30: (MS)² (Mathematics and Science for Minority Students)
+- Organization: Phillips Academy Andover
+- Location: Phillips Academy (Andover, MA)
+- Cost: Free
+- Dates: June 30–August 2
+- Application Deadline: January 15
+- Target Audience: 9th-grade students from underrepresented background communities in STEM.
+- Description: Free 5-week, 3-summer residential STEM and leadership program offering college counseling and rigorous academic preparation.
+
+## Program 31: MIT Beaver Works Summer Institute (BWSI)
+- Organization: MIT
+- Location: MIT campus (Cambridge, MA) and online, residential and remote tracks available
+- Cost: Free for families earning under $200,000/year; a fee applies above that threshold
+- Dates: Summer, typically late June through early August
+- Application Deadline: Rolling, applications generally open in winter
+- Target Audience: Rising high school seniors with strong STEM background.
+- Description: Intensive STEM/engineering program with tracks in robotics, autonomous systems, cybersecurity, and AI, including hands-on build projects.
+
+## Program 32: Google Computer Science Summer Institute (CSSI)
+- Organization: Google
+- Location: Varies by year — check current cycle for virtual vs. in-person
+- Cost: Free
+- Dates: Summer, typically a few weeks
+- Application Deadline: Typically due in spring
+- Target Audience: Graduating high school seniors planning to study computer science in college, especially from underrepresented groups.
+- Description: An introductory computer science program for incoming college freshmen, run directly by Google engineers.
+
+## Program 33: JHU APL ASPIRE
+- Organization: Johns Hopkins University Applied Physics Laboratory
+- Location: Laurel, MD (in-person; students must arrange own transportation)
+- Cost: Free (unpaid — no stipend)
+- Dates: June 23–August 21 (roughly)
+- Application Deadline: Typically due in winter
+- Target Audience: High school students interested in engineering/tech research; highly selective (about 7% acceptance rate).
+- Description: Students work full-time hours (30–40/week) alongside APL engineers and scientists on real research projects. One of the most selective free high school research internships in the country.
+
+## Program 34: NIST SHIP (Summer High School Internship Program)
+- Organization: National Institute of Standards and Technology (NIST)
+- Location: NIST campuses (Gaithersburg, MD or Boulder, CO)
+- Cost: Free (stipend provided)
+- Dates: Summer, roughly 8 weeks
+- Application Deadline: Typically due in winter/early spring
+- Target Audience: High school students interested in STEM research, including tech, AI, and robotics placements.
+- Description: A paid federal research internship placing students directly in NIST labs, including opportunities in AI and robotics research.
+
+## Program 35: CoderDojo
+- Organization: CoderDojo Foundation (part of Raspberry Pi Foundation)
+- Location: Global network of volunteer-led local clubs ("dojos")
+- Cost: Free
+- Dates: Rolling — local dojos meet regularly year-round
+- Application Deadline: Rolling / N/A
+- Target Audience: Young people ages 7–17, no experience required; not exclusively for girls, but many dojos run girls-focused sessions.
+- Description: A free, global network of volunteer-led coding clubs where young people learn to code, build websites, apps, and games in a relaxed, community environment.
+
+## Program 36: NYU CS4CS (Computer Science for Cyber Security)
+- Organization: New York University
+- Location: NYU (New York, NY)
+- Cost: Free
+- Dates: Summer
+- Application Deadline: Typically due in spring — check current cycle
+- Target Audience: NYC-area high school students, grades 9-12, no prior CS/cybersecurity experience required.
+- Description: An intensive introduction to computer science and cybersecurity covering white-hat hacking, cryptography, steganography, digital forensics, and privacy, designed specifically to build early cybersecurity talent.
+
+## Program 37: MIT Launch
+- Organization: Massachusetts Institute of Technology (run by MIT faculty)
+- Location: MIT (Cambridge, MA)
+- Cost: Paid, but need-based financial aid available
+- Dates: Four weeks, summer
+- Application Deadline: Check current cycle
+- Target Audience: High school students ages 13-18.
+- Description: An entrepreneurship program focused on venture creation, product development, and business fundamentals.
+
+## Program 38: MITES Summer
+- Organization: Massachusetts Institute of Technology
+- Location: MIT (Cambridge, MA), residential
+- Cost: Free (tuition, room, and board fully covered; transportation not included)
+- Dates: Six weeks, late June through early August
+- Application Deadline: Applications open in fall, due in winter — check current cycle
+- Target Audience: High school juniors (rising seniors) only, U.S. citizens or permanent residents, with priority for students from underrepresented or underserved communities in STEM.
+- Description: A highly selective, intensive college-level academic program in science and engineering, including electives like Machine Learning and Engineering Design, alongside college-readiness support.
+
+## Program 39: Google Code Next
+- Organization: Google
+- Location: In-person labs in Oakland (CA), Inglewood (CA), Chelsea (NY/Manhattan), and Detroit (MI); virtual "Connect" program available more broadly across the US and Canada
+- Cost: Free
+- Dates: Runs October through June (school year)
+- Application Deadline: Mid-August for in-person labs; rolling for the virtual track
+- Target Audience: High school students in grades 9-12, with a specific focus on Black, Latinx, Indigenous, and women-identifying students.
+- Description: A rigorous computer science curriculum with personalized coaching and a direct mentor relationship with Google engineers, covering web development, AI, game design, and hardware engineering (including 3D printing and robotics projects).
+
+## Program 40: Genesys Works
+- Organization: Genesys Works
+- Location: Multiple US cities (e.g., Houston, Chicago, Twin Cities, Bay Area, New York, Seattle)
+- Cost: Free (and pays students a stipend during the internship phase)
+- Dates: Summer training followed by a school-year paid internship
+- Application Deadline: Check current cycle by city
+- Target Audience: High school juniors and seniors specifically, prioritizing students from under-resourced communities.
+- Description: Combines a summer technical/professional skills training bootcamp with a paid corporate internship during senior year.
+
+---
+
+## Scholarship 1: Breakthrough Junior Challenge
+- Amount: $250,000
+- Description: This scholarship is appropriate for high schoolers of all grades interested in physics, mathematics, or life sciences. To apply, students must create an original two-minute video presentation explaining a scientific idea and submit peer reviews for five other submissions.
+- Deadline: June
+
+## Scholarship 2: Regeneron Science Talent Search
+- Amount: Up to $250,000
+- Description: High school seniors use an original, independent research project to apply for this scholarship. The top 40 finalists receive a $25,000+ scholarship and trip to Washington, D.C., to present their research.
+- Deadline: November
+
+## Scholarship 3: RevPart STEM Scholarship
+- Amount: Up to $2,000
+- Description: Seniors planning to attend a college and pursue a STEM degree can apply for this merit-based essay scholarship. Applicants need to submit a short essay describing who they are and why they should win the scholarship.
+- Deadline: December
+
+## Scholarship 4: Generation Google Scholarship
+- Amount: $10,000
+- Description: Google established this scholarship for future leaders in the field of computer science. Applicants must be high school seniors planning to major in computer science, computer engineering, or a closely related technical field.
+- Deadline: April
+
+## Scholarship 5: Black at Microsoft Scholarship
+- Amount: $5,000
+- Description: Each year, Microsoft offers fifty-five BAM scholarships to high school seniors of African descent. Applicants must demonstrate leadership, a passion for technology, and financial need.
+- Deadline: March
+
+## Scholarship 6: Navisite’s Next Steminist Scholarship
+- Amount: $10,000
+- Description: Navisite, part of Accenture, awards three scholarships each year to women pursuing degrees in STEM. The application is open to women interested in various STEM fields, including electrical and chemical engineering, computer science, and data science.
+- Deadline: May
+
+## Scholarship 7: Amazon Future Engineer Scholarship
+- Amount: Up to $40,000
+- Description: While this sounds like a scholarship available to engineering students only, it’s intended for students interested in electrical engineering, computer engineering, software engineering, or other computer science-related degrees. Winners will participate in a paid summer internship at Amazon.
+- Deadline: Varies
+
+## Scholarship 8: Dellums SMART Scholarship
+- Amount: $30,000 - $46,000
+- Description: This unique scholarship is a long-term investment in your education, providing a pathway towards a tuition-free degree and a guaranteed job after graduation. With a SMART scholarship, students earn an annual stipend and participate in summer internships, leading to a career with the DoD.
+- Deadline: December
+
+## Scholarship 9: NSA STOKES Educational Scholarship Program
+- Amount: Up to $30,000 per year
+- Description: This is another recruitment scholarship leading to a career with the National Security Agency. You’ll earn a salary to offset the cost of your degree and participate in full-time paid summer internships between each year of college.
+- Deadline: October
+
+## Scholarship 10: The Science Ambassador Scholarship
+- Amount: $20,000
+- Description: This scholarship, funded by Cards Against Humanity, awards five scholarships to women and non-binary students pursuing STEM degrees. High school seniors must submit a three-minute video to apply.
+- Deadline: Fall
+
+## Scholarship 11: Hyundai Women in STEM Scholarship
+- Amount: $10,000
+- Description: This essay-based scholarship is all about EV tech. Each year, Hyundai awards five scholarships to women who submit the best essay on how EV tech will improve the planet and shift us toward a more sustainable future.
+- Deadline: June
+
+## Scholarship 12: BHW Women in STEM Academic Scholarship
+- Amount: $3,000
+- Description: Students planning to attend college next year can apply for this scholarship by writing an essay about their favorite app or how an app they use has improved their day.
+- Deadline: April
+
+## Scholarship 13: For A Bright Future – STEM Scholarship
+- Amount: Up to $10,000
+- Description: To qualify for this scholarship, students must demonstrate high grades, charitable impact, work experience, extracurriculars, and special circumstances they’ve overcome, such as economic or social hardships. Students must include an essay and be enrolled or plan to enroll in a STEM or sustainability degree program.
+- Deadline: May
+
+## Scholarship 14: American Chemical Society (ACS) Scholars Program
+- Amount: Up to $5,000 per year
+- Description: Underrepresented students pursuing degrees in chemistry or other chemistry-related fields can qualify for this renewable award. Winners are selected based on overall excellence in academics, leadership, extracurriculars, and community service.
+- Deadline: March
+
+## Scholarship 15: HITEC Scholarship
+- Amount: Up to $5,000
+- Description: The HITEC Foundation has a mission to support Hispanic students pursuing careers in technology. This scholarship covers many technology-related majors, including artificial intelligence, telecommunications, cybersecurity, and web development.
+- Deadline: March
+
+---
+
+## Community 1: Technovation Girls Community
+- Organization: Technovation
+- Location: Global / Online + Local Chapters
+- Cost: Free
+- Target Audience: Girls and gender-diverse youth ages 8–18 interested in technology and entrepreneurship.
+- Description: Community connecting students, mentors, educators, and local chapter leaders around technology projects and entrepreneurship.
+
+## Community 2: Kode With Klossy Community
+- Organization: Kode With Klossy
+- Location: Online + United States
+- Cost: Free
+- Target Audience: Young women and gender-expansive youth ages 13–18.
+- Description: Community centered around technology and creativity. Participants can connect with other young people interested in coding.
+
+## Community 3: Recurse Center
+- Organization: Recurse Center
+- Location: Online + New York City
+- Cost: Free
+- Target Audience: Programmers and people learning programming.
+- Description: A community built around collaborative programming, self-directed learning, and peer support.
+
+## Community 4: Women in STEM
+- Organization: Women in STEM
+- Location: Global / Online + local chapters
+- Cost: Free
+- Target Audience: Teens and students interested in STEM, especially girls and gender-diverse students.
+- Description: Student-led global organization focused on education, mentorship, outreach, and networking.
+
+## Community 5: Women in Tech Global
+- Organization: Women in Tech Global
+- Location: Global / Online + 65+ country chapters
+- Cost: Varies
+- Target Audience: Women and girls interested in technology and STEM.
+- Description: Global network supporting women and girls through education, digital inclusion, entrepreneurship, advocacy, networking, and mentorship.
+
+## Community 6: WoMakersCode
+- Organization: WoMakersCode
+- Location: Brazil + international / Online + local events
+- Cost: Free
+- Target Audience: Girls and women interested in technology.
+- Description: Brazilian nonprofit and community focused on increasing women's participation in technology through education, community, mentorship, events, and career opportunities.
+
+## Community 7: IEEE Women in Engineering
+- Organization: IEEE Women in Engineering (WIE)
+- Location: Global / Online + local groups
+- Cost: Varies
+- Target Audience: Women and students interested in engineering, science, and technology.
+- Description: Global professional community connecting women in engineering and technology.
+
+## Community 8: NCWIT Aspirations in Computing (AiC) Community
+- Organization: National Center for Women & Information Technology (NCWIT)
+- Location: United States + Online (also Guam, Puerto Rico, U.S. Virgin Islands, overseas military bases)
+- Cost: Free
+- Target Audience: High school, college, and early-career students interested in computing and technology.
+- Description: Community of more than 30,000 like-minded technologists.
+
+---
+
+## Mentorship 1: Technovation Girls Mentorship
+- Organization: Technovation
+- Location: Global
+- Cost: Free
+- Target Audience: Girls and gender-diverse youth ages 8–18.
+- Description: Students participating in Technovation can receive guidance from mentors while developing technology projects.
+
+## Mentorship 2: Kode With Klossy Mentorship
+- Organization: Kode With Klossy
+- Location: Online + United States
+- Cost: Free
+- Target Audience: Young women and gender-expansive youth ages 13–18.
+- Description: Kode With Klossy programs provide opportunities for students to learn from mentors while developing coding skills and projects.
+
+## Mentorship 3: Women in Tech Global Mentorship Program
+- Organization: Women in Tech Global
+- Location: Global / Online
+- Cost: Varies
+- Dates: Varies
+- Application Deadline: Varies
+- Target Audience: Women interested in technology and STEM.
+- Description: Mentorship initiative connecting participants with experienced professionals and technology leaders.
+
+## Mentorship 4: WoMakersCode Mentorship Programs
+- Organization: WoMakersCode
+- Location: Brazil + Online
+- Cost: Free
+- Dates: Varies by cohort
+- Application Deadline: Varies
+- Target Audience: Girls and women interested in technology.
+- Description: WoMakersCode offers mentorship cycles and collective mentoring as part of its community.
+
+## Mentorship 5: Women in STEM Mentorship
+- Organization: Women in STEM
+- Location: Global / Online
+- Cost: Free
+- Dates: Varies
+- Application Deadline: Varies
+- Target Audience: Teens and students interested in STEM.
+- Description: Mentorship is one of the organization's three main initiatives, alongside education and outreach.
+
+## Mentorship 6: SWE Mentoring
+- Organization: Society of Women Engineers
+- Location: Global / Online
+- Cost: Varies
+- Dates: Year-round
+- Application Deadline: Varies
+- Target Audience: Women in engineering and STEM.
+- Description: SWE provides mentoring opportunities designed to connect women with experienced professionals.
+
+## Mentorship 7: Black Girls Code Mentorship & Career Programs
+- Organization: Black Girls Code
+- Location: United States (10+ cities) + Online
+- Cost: Free for most programs
+- Target Audience: Girls and women ages 7–18, with career acceleration initiatives for adults 18+.
+- Description: Runs 18+ programs combining coding instruction, mentor and industry-speaker sessions, and leadership curriculum.
+
+---
+
+## Organization 1: AnitaB.org
+- Organization: AnitaB.org
+- Location: Global / Online + United States
+- Cost: Varies
+- Target Audience: Women and gender-diverse people in computing and technology.
+- Description: Organization dedicated to advancing women and non-binary technologists through community, research, professional development, and events.
+
+## Organization 2: Society of Women Engineers (SWE)
+- Organization: Society of Women Engineers
+- Location: Global / Online + local and university sections
+- Cost: Membership-based; some opportunities vary
+- Target Audience: Women interested in engineering and STEM.
+- Description: Professional organization supporting women in engineering through networking, mentorship, scholarships, educational resources, leadership opportunities, and local communities.
+
+## Organization 3: Women in Tech
+- Organization: Women in Tech Global
+- Location: Global
+- Cost: Varies
+- Target Audience: Women and girls interested in technology and STEM.
+- Description: International nonprofit movement focused on empowering women and girls through education, entrepreneurship, digital inclusion, and leadership.
+
+## Organization 4: WoMakersCode
+- Organization: WoMakersCode
+- Location: Brazil + international
+- Cost: Free for many programs
+- Target Audience: Girls and women interested in technology.
+- Description: Brazilian nonprofit focused on technical education and employability for women in technology.
+
+## Organization 5: Technovation Girls
+- Organization: Technovation
+- Location: Global / Online + local chapters
+- Cost: Free
+- Dates: August–May (seasonal)
+- Application Deadline: Registration varies by season
+- Target Audience: Girls and gender-diverse youth ages 8–18.
+- Description: Global technology and entrepreneurship program where students work in teams to create apps or AI-based solutions to problems in their communities.
+
+## Organization 6: Kode With Klossy
+- Organization: Kode With Klossy
+- Location: United States + Online opportunities
+- Cost: Free
+- Dates: Varies
+- Application Deadline: Varies by program
+- Target Audience: Young women and gender-expansive youth ages 13–18.
+- Description: Coding education community offering intensive programs in areas such as AI/ML and web development.
+
+## Organization 7: Girls Who Code
+- Organization: Girls Who Code
+- Location: United States + Online
+- Cost: Free
+- Dates: Year-round opportunities
+- Application Deadline: Varies
+- Target Audience: Girls and students interested in closing the gender gap in technology.
+- Description: Organization focused on increasing the number of women and girls in computing through coding programs, clubs, educational resources, and community opportunities.
+
+## Organization 8: Recurse Center
+- Organization: Recurse Center
+- Location: New York City + Online
+- Cost: Free
+- Dates: Multiple sessions throughout the year
+- Application Deadline: Applications are continuously accepted.
+- Target Audience: People interested in becoming stronger programmers.
+- Description: A self-directed programming community where participants spend 6 or 12 weeks building projects, learning collaboratively, and programming alongside other developers.
+
+## Organization 9: NCWIT Aspirations in Computing (AiC) High School Award
+- Organization: National Center for Women & Information Technology (NCWIT)
+- Location: United States + territories
+- Cost: Free to apply
+- Target Audience: Students in grades 9 through 12 who are active and interested in computing and technology.
+- Description: Not a scholarship, but a recognition + community award (small stipend at some tiers, ~$500). Applications for the 2026-27 cycle open September 1, 2026, with a final deadline of October 27, 2026.
+
+## Organization 10: Rewriting the Code (RTC)
+- Organization: Rewriting the Code
+- Location: United States + Canada / Online
+- Cost: Free
+- Target Audience: University and early-career women in tech.
+- Description: 501(c)(3) nonprofit with a 40,000+ member community offering mentorship, career events, scholarships, and affinity groups.
+
+## Organization 11: NCWIT Aspirations in Computing (AiC) High School Award
+- Organization: National Center for Women & Information Technology (NCWIT)
+- Location: United States + territories
+- Cost: Free to apply
+- Target Audience: Students in grades 9 through 12 who are active and interested in computing and technology.
+- Description: Not a scholarship, but a recognition + community award (small stipend at some tiers, ~$500). Applications for the 2026-27 cycle open September 1, 2026, with a final deadline of October 27, 2026.
+
+---
+
+## Passion Project Idea 1: Redesign an App or Website You Use Every Day
+- Category: Design
+- Tools/Skills: Figma (free), basic design thinking, no coding required to start
+- Time Commitment: A weekend to a few weeks
+- Difficulty: Beginner
+- Description: Pick an app or website you use often and mock up a redesign — new layout, colors, or flow. Write a short explanation of *why* you made each change.
+- Next Step: Once comfortable, try turning the mockup into a real webpage with HTML/CSS.
+
+## Passion Project Idea 2: Build a Personal Portfolio Website
+- Category: Design / Web Development
+- Tools/Skills: HTML, CSS, free hosting (GitHub Pages)
+- Time Commitment: 1-3 weeks
+- Difficulty: Beginner
+- Description: Build a simple website showcasing your projects, interests, or writing.
+- Next Step: Add a simple contact form or blog section using basic JavaScript.
+
+## Passion Project Idea 3: Build an App That Solves a Real Problem at Your School or in Your Community
+- Category: Social Impact
+- Tools/Skills: MIT App Inventor (no-code) or basic web development
+- Time Commitment: A full season (this is the Technovation Girls model)
+- Difficulty: Beginner to Intermediate
+- Description: Identify a real problem around you — a scheduling issue, a way to connect students, a tool for a local nonprofit — and build a simple app or website to address it.
+- Next Step: Submit the finished project to Technovation Girls or Congressional App Challenge for recognition.
+
+## Passion Project Idea 4: Build a Chatbot or Quiz Tool About a Cause You Care About
+- Category: Social Impact
+- Tools/Skills: No-code chatbot builders, or basic Python if going further
+- Time Commitment: 1-2 weeks
+- Difficulty: Beginner
+- Description: Create a simple chatbot or interactive quiz that educates people about a cause you care about — climate, mental health, local history, anything.
+- Next Step: Try rebuilding it with a real framework once you're comfortable with the logic.
+
+## Passion Project Idea 5: Make a Simple Game in Scratch
+- Category: Games
+- Tools/Skills: Scratch (free, no coding experience needed)
+- Time Commitment: A weekend to 2 weeks
+- Difficulty: Beginner
+- Description: Build a simple game — a maze, a quiz, a platformer — using MIT's drag-and-drop Scratch tool.
+- Next Step: Move to a text-based language like Python once the logic feels familiar.
+
+## Passion Project Idea 6: Build or Mod a Level in Roblox Studio
+- Category: Games
+- Tools/Skills: Roblox Studio (free), light scripting in Lua
+- Time Commitment: 2-4 weeks
+- Difficulty: Beginner to Intermediate
+- Description: Design a custom game level or mechanic using Roblox Studio.
+- Next Step: Try a more traditional game engine like Godot (free) for more control.
+
+## Passion Project Idea 7: Analyze a Dataset You're Curious About
+- Category: Data
+- Tools/Skills: Google Sheets, or a beginner Python notebook (Google Colab, free)
+- Time Commitment: 1-2 weeks
+- Difficulty: Beginner
+- Description: Pick a topic you actually care about — sports stats, music trends, climate data — and build simple charts or visualizations from real data.
+- Next Step: Try a beginner challenge on Kaggle once comfortable with the basics.
+
+## Passion Project Idea 8: Train a No-Code AI Image Classifier
+- Category: Data / AI
+- Tools/Skills: Google's Teachable Machine (free, no coding required)
+- Time Commitment: A weekend
+- Difficulty: Beginner
+- Description: Train a simple AI model to recognize images (like different types of recyclables, or hand gestures) using a free, visual, no-code tool.
+- Next Step: Learn the Python behind it with a beginner machine learning course.
+
+## Passion Project Idea 9: Start a Blog or Newsletter Documenting Your Learning Journey
+- Category: Writing / Organizing
+- Tools/Skills: Any free blogging platform (Substack, Medium, or a self-built site)
+- Time Commitment: Ongoing, a little each week
+- Difficulty: Beginner
+- Description: Document what you're learning as you explore tech — what worked, what didn't, what surprised you.
+- Next Step: Turn a favorite post into a presentation or talk for your school's tech club.
+
+## Passion Project Idea 10: Document Your Passion Project's Process, Not Just the Final Product
+- Category: Writing / Organizing
+- Tools/Skills: Notion, Google Docs, or a simple notebook
+- Time Commitment: Ongoing, alongside any other project
+- Difficulty: Beginner
+- Description: Whatever project you pick from this list, keep a running log of decisions, dead ends, and what you learned.
+- Next Step: Use this log as the basis for an application essay or portfolio write-up later.
+
+## Passion Project Idea 11: Build a Personal Website That Tracks a Habit or Hobby
+- Category: Web Development
+- Tools/Skills: HTML, CSS, and basic JavaScript
+- Time Commitment: 1-2 weeks
+- Difficulty: Beginner to Intermediate
+- Description: Build a small web app that tracks something you actually care about — books read, workouts, plant watering.
+- Next Step: Add simple data storage so your tracker remembers information between visits.
+
+## Passion Project Idea 12: Design and 3D Print a Small, Useful Object
+- Category: Hardware / Making
+- Tools/Skills: Tinkercad (free, browser-based 3D design), access to a 3D printer
+- Time Commitment: 1-2 weeks
+- Difficulty: Beginner
+- Description: Design something small and useful — a phone stand, an organizer, a replacement part for something broken at home.
+- Next Step: Try adding a simple electronic component (like an LED) to a future design.
+
+## Passion Project Idea 13: Build a Simple Robot with a Beginner Kit
+- Category: Hardware / Robotics
+- Tools/Skills: A beginner kit like micro:bit or Arduino Starter Kit
+- Time Commitment: 2-4 weeks
+- Difficulty: Beginner to Intermediate
+- Description: Build something simple and physical — a light that reacts to sound, a small robot that avoids obstacles.
+- Next Step: Join a robotics team (Botball, VEX, or FIRST) to go further with mentorship and teammates.
+
+## Passion Project Idea 14: Try a Beginner-Friendly Cybersecurity Challenge
+- Category: Cybersecurity
+- Tools/Skills: picoCTF (free, beginner-friendly capture-the-flag platform)
+- Time Commitment: A few hours to start, ongoing if you get hooked
+- Difficulty: Beginner
+- Description: picoCTF is designed by Carnegie Mellon specifically for beginners and walks you through cybersecurity puzzles step by step.
+- Next Step: If you like it, look into CyberPatriot or Girls Go CyberStart for a more structured next step.
+
+## Passion Project Idea 15: Build a Simple Browser Extension
+- Category: Web Development
+- Tools/Skills: HTML, CSS, JavaScript (Chrome extensions are a great beginner use case)
+- Time Commitment: 1-2 weeks
+- Difficulty: Intermediate
+- Description: Build a small Chrome extension that solves an annoying, specific problem — blocking a distracting site, changing how a page looks, adding a helpful button somewhere.
+- Next Step: Publish it to the Chrome Web Store for real users to try.
+
+## Passion Project Idea 16: Create a Digital Zine or Interactive Story
+- Category: Design / Writing
+- Tools/Skills: Canva (free) for a zine, or Twine (free, no-code) for an interactive story
+- Time Commitment: 1-2 weeks
+- Difficulty: Beginner
+- Description: Combine writing and design into a digital zine, or use Twine to build a choose-your-own-adventure style interactive story.
+- Next Step: Try recreating the same branching logic in actual code once you understand the structure.
+
+## Passion Project Idea 17: Build a Simple Personal Finance or Budgeting Spreadsheet Tool
+- Category: Data
+- Tools/Skills: Google Sheets, basic formulas
+- Time Commitment: A few days to a week
+- Difficulty: Beginner
+- Description: Build a spreadsheet that tracks and visualizes spending or savings goals.
+- Next Step: Recreate the same tool using Python and a library like pandas.
+
+## Passion Project Idea 18: Contribute to a Beginner-Friendly Open Source Project
+- Category: Web Development / Community
+- Tools/Skills: GitHub (free), basic HTML/CSS or Python depending on the project
+- Time Commitment: Ongoing, a little at a time
+- Difficulty: Intermediate
+- Description: Many open source projects have issues specifically tagged "good first issue" for beginners. Fixing a small bug or improving documentation on a real project is a great way to learn how professional developers actually work together.
+- Next Step: Look for projects tagged with "good first issue" on GitHub's Explore page or through Hack Club's community.
+
+## Passion Project Idea 19: Build a Simple Website for a Local Business, Club, or Family Project
+- Category: Web Development / Social Impact
+- Tools/Skills: HTML, CSS, or a no-code builder like Carrd (free tier)
+- Time Commitment: 1-2 weeks
+- Difficulty: Beginner
+- Description: Offer to build a simple website for a family member's small business, a school club, or a community organization that doesn't have one.
+- Next Step: Add a contact form or simple booking feature to make it more functional.
+
+## Passion Project Idea 20: Enter an Existing Project into a Showcase (Not a Competition)
+- Category: Recognition / Portfolio
+- Tools/Skills: Whatever you already built from any idea above
+- Time Commitment: A few hours to prepare a submission
+- Difficulty: Beginner
+- Description: Once you've built something from any idea on this list, submit it to Coolest Projects (Raspberry Pi Foundation's free global showcase) — it's specifically designed to be low-pressure recognition, not a competition to "win."
+- Next Step: Use the feedback and confidence from this as motivation to try a real competition next, like the Congressional App Challenge.
+
+---
+
+## Competition 1: Technovation Girls
+- Organization: Technovation
+- Target Audience: Female high schoolers worldwide interested in tech and entrepreneurship.
+- Description: A global technology and entrepreneurship competition where participants work in teams alongside mentors.
+
+## Competition 2: Microsoft Imagine Cup
+- Organization: Microsoft
+- Target Audience: High school and university student developers, international.
+- Description: One of the most prestigious global coding competitions, often called the "Olympiad of Technology," tasking students with using Microsoft AI and Azure cloud services to build a Minimum Viable Product addressing a major global challenge in areas like education, health, or cybersecurity.
+
+## Competition 3: USA Computing Olympiad (USACO)
+- Organization: USA Computing Olympiad
+- Target Audience: Pre-college students in the U.S.
+- Description: The most prestigious algorithmic programming competition for pre-college students in the US, with four online contests (Bronze, Silver, Gold, Platinum); top performers attend a summer training camp to select the US team for the IOI.
+
+## Competition 4: International Olympiad in Informatics (IOI)
+- Organization: UNESCO/IFIP (patrons)
+- Target Audience: Top student programmers from over 80 countries.
+- Description: Widely recognized as the most prestigious and selective algorithmic coding competition for high schoolers globally.
+
+## Competition 5: Bebras Challenge
+- Organization: Bebras International
+- Target Audience: Primary and secondary students across 96 countries.
+- Description: An annual computer science competition worldwide, with over 2.5 million participants — the largest CS competition globally.
+
+## Competition 6: Indian National Artificial Intelligence Olympiad (INAIO)
+- Organization: ACM India / ACM IKDD
+- Target Audience: International high schoolers interested in AI.
+- Description: Official selection pathway for the International Olympiad in Artificial Intelligence (IOAI).
+
+## Competition 7: CyberPatriot
+- Organization: Air Force Association
+- Target Audience: U.S. high school and middle school students.
+- Description: The world's largest cybersecurity competition for students; teams find and fix vulnerabilities in virtual operating systems.
+
+## Competition 8: Lockheed Martin CYBERQUEST
+- Organization: Lockheed Martin
+- Target Audience: U.S. high school students.
+- Description: A cyber competition where teams of students solve offense and defense cyber challenges in a capture-the-flag format, covering reverse engineering, web exploits, forensics, and cryptography.
+
+## Competition 9: CyberCenturion
+- Organization: Northrop Grumman / STEM Learning
+- Target Audience: Secondary school students in the United Kingdom and its external territories.
+- Description: A cybersecurity (system hardening) competition mirroring CyberPatriot, the U.S. version.
+
+## Competition 10: GENIUS Olympiad (incl. GENIUS AI and GENIUS Coding)
+- Organization: Rochester Institute of Technology (RIT)
+- Target Audience: International high schoolers.
+- Description: A unique international competition dedicated to solving environmental problems through technology; GENIUS AI focuses on AI agents for environmental problems, while GENIUS Coding uses a hackathon format.
+
+## Competition 11: HackMIT Blueprint
+- Organization: MIT
+- Target Audience: High school students in the U.S., beginner-friendly.
+- Description: Prepares students for coding challenges with beginner-friendly tracks.
+
+## Competition 12: PennApps
+- Organization: University of Pennsylvania
+- Target Audience: High school and college programmers, U.S.-based.
+- Description: One of the most well-known hackathons in the United States.
+
+## Competition 13: LG Hacks
+- Organization: LG
+- Target Audience: U.S. high schoolers.
+- Description: Promises mentorship and hands-on challenges for student coders.
+
+## Competition 14: MountainHacks
+- Organization: Student-run
+- Target Audience: U.S. high schoolers.
+- Description: Known for tackling practical tech problems in a hackathon format.
+
+## Competition 15: SPARK HACK
+- Organization: Student-run
+- Target Audience: U.S. high schoolers.
+- Description: Highlights user interface design and project presentation alongside coding skills.
+
+## Competition 16: Lablab.ai Hackathons
+- Organization: Lablab.ai
+- Target Audience: International students of all levels.
+- Description: A platform for AI-focused hackathons, especially fast-paced generative AI challenges with strong beginner support.
+
+## Competition 17: Major League Hacking (MLH)
+- Organization: MLH
+- Target Audience: International, beginner-friendly.
+- Description: The gold standard for student-friendly hackathons, with virtual events running nearly every weekend.
+
+## Competition 18: Devpost Hackathons
+- Organization: Devpost
+- Target Audience: International students, all skill levels.
+- Description: The largest global directory of online hackathons.
+
+## Competition 19: Aramco STEM Racing
+- Organization: Formula 1® / Aramco
+- Target Audience: Students ages 9–19, competing in 65 countries.
+- Description: Teams design, manufacture, and race miniature cars inspired by Formula 1 engineering.
+
+## Competition 20: Conrad Challenge
+- Organization: Space Center Houston / Equinor
+- Target Audience: Students ages 13–18, in teams of 2–5 with an adult coach, worldwide.
+- Description: A global innovation challenge where teams develop tech-driven solutions to real-world problems.
+
+## Competition 21: International Olympiad in Artificial Intelligence (IOAI)
+- Organization: International organizing committee
+- Target Audience: High schoolers worldwide passionate about AI.
+- Description: An annual competition inspiring students to explore AI, with participants working on challenges in machine learning, computer vision, and natural language processing.
+
+## Competition 22: International Winter AI Olympiad (IAIO)
+- Organization: Knowledge 4 All Foundation
+- Target Audience: High schoolers globally.
+- Description: A global competition designed to identify and nurture promising young AI talents, covering machine learning, algorithmic thinking, data analysis, and responsible AI design.
+
+## Competition 23: World Robot Olympiad (WRO)
+- Organization: WRO International
+- Target Audience: High schoolers internationally.
+- Description: One of the largest international robotics competitions, including RoboMission and RoboSports categories.
+
+## Competition 24: International Robot Olympiad (IRO)
+- Organization: AI & STEM organizing body
+- Target Audience: Students of various grade levels worldwide.
+- Description: Combines AI, robotics, and STEM principles with creativity and problem-solving.
+
+## Competition 25: International Robotics Olympiad / World Robotics Championship
+- Organization: International Robotics Olympiad Foundation
+- Target Audience: Youth worldwide across 8 categories.
+- Description: Teams compete across categories from autonomous drones to humanoid robots and industrial automation.
+
+## Competition 26: GENIUS Olympiad
+- Organization: Rochester Institute of Technology (RIT)
+- Target Audience: International high schoolers.
+- Description: An international project competition in science, engineering, art, film, music, writing, robotics, and business categories about environmental issues.
+
+## Competition 27: International Research Olympiad (IRO)
+- Organization: Global research consortium
+- Target Audience: Students grades 7–12 internationally.
+- Description: Evaluates students' research ability and critical thinking, with opportunities for tech and AI research projects.
+
+## Competition 28: RoboRAVE International
+- Organization: RoboRAVE
+- Target Audience: International high schoolers.
+- Description: A hands-on robotics and coding competition culminating in a world championship.
+
+## Competition 29: FIRST Global Challenge
+- Organization: FIRST
+- Target Audience: High schoolers, one team per country worldwide.
+- Description: An international robotics olympics promoting STEM diplomacy and global collaboration.
+
+## Competition 30: European Union Contest for Young Scientists (EUCYS)
+- Organization: European Commission
+- Target Audience: Students ages 14–20, primarily European but open internationally.
+- Description: A prestigious competition showcasing top scientific and technological projects, including AI, computing, and engineering categories.
+
+## Competition 31: International Science and Engineering Fair (ISEF)
+- Organization: Regeneron — Society for Science
+- Target Audience: High schoolers from over 75 countries.
+- Description: The world's largest international pre-college science and engineering competition, with strong CS, robotics, and AI/software categories.
+
+## Competition 32: Google Science Fair (Global alternatives / Regeneron affiliated regional fairs)
+- Organization: Various regional partners
+- Target Audience: International high schoolers.
+- Description: Regional and global science fairs rewarding innovative tech and CS projects.
+
+## Competition 33: International Astronomy and Astrophysics Olympiad (IOAA)
+- Organization: IOAA International Committee
+- Target Audience: High schoolers worldwide.
+- Description: Includes a strong data analysis and computational track component.
+
+## Competition 34: Zero Robotics
+- Organization: MIT / NASA
+- Target Audience: High schoolers internationally.
+- Description: Students write code to control robots aboard the International Space Station, culminating in a live final aboard the ISS.
+
+## Competition 35: International Olympiad in Cryptography (NSUCRYPTO)
+- Organization: Novosibirsk State University
+- Target Audience: High schoolers and university students worldwide.
+- Description: Focused on cryptography and mathematical problem-solving relevant to cybersecurity.
+
+## Competition 36: International Junior Science Olympiad (IJSO)
+- Organization: IJSO International Committee
+- Target Audience: Students under 16, worldwide.
+- Description: A multidisciplinary science olympiad often serving as a stepping stone to IOI and IOAI.
+
+## Competition 37: Global AI Hub Hackathons
+- Organization: Global AI Hub
+- Target Audience: International students, beginner to advanced.
+- Description: Free AI-focused hackathons and bootcamps with certificates and mentorship.
+
+## Competition 38: MATE ROV Competition (International)
+- Organization: Marine Advanced Technology Education
+- Target Audience: High schoolers internationally, mixed-age and background teams.
+- Description: Teams design, build, and operate remotely operated underwater vehicles (ROVs).
+
+## Competition 39: International Cyber Olympiad
+- Organization: Various national cyber education bodies
+- Target Audience: Students internationally, various grade levels.
+- Description: A globally accessible olympiad testing CS fundamentals, coding logic, and cyber awareness.
+
+## Competition 40: European Junior Olympiad in Informatics (EJOI)
+- Organization: IOI Foundation
+- Target Audience: Younger secondary students across Europe and internationally.
+- Description: A junior-level companion competition to IOI.
+
+## Competition 41: MIT RAISE Day of AI Festival (AI250)
+- Organization: MIT RAISE / Day of AI
+- Target Audience: U.S. and international high schoolers.
+- Description: A national event celebrating AI innovation, inviting students to submit AI-powered STEM solutions for health, climate, art, and civic projects.
+
+## Competition 42: Bitcamp Hackathon
+- Organization: University of Maryland
+- Target Audience: High school and college students, international participants welcome.
+- Description: A major student hackathon in the broader collegiate/high-school hackathon circuit.
+
+## Competition 43: Future City Competition
+- Organization: DiscoverE
+- Target Audience: Middle and high school students internationally.
+- Description: An international engineering competition focused on urban design and technology-driven city planning.
+
+## Competition 44: International Young Physicists' Tournament (IYPT)
+- Organization: IYPT International Committee
+- Target Audience: Secondary school teams from 41 countries.
+- Description: Known as the "Physics World Cup," teams work for nearly a year on open-ended inquiry problems.
+
+---
+
+## Opportunity 1: Women in STEM Virtual High School Summer Engineering Experience
+- Organization: Women in STEM (UT Austin)
+- Location: Online
+- Cost: Free
+- Dates: June–July
+- Application Deadline: May 1
+- Target Audience: Rising 10th–12th grade high school students.
+- Description: Two-month virtual program where students explore engineering majors through hands-on design challenges, STEM career content, and interactions with role models. The program is open internationally.
+- Learn More: Women in STEM Virtual Engineering Experience
+
+## Opportunity 2: Women in STEM Virtual High School Summer Learning Academy
+- Organization: Women in STEM (UT Austin)
+- Location: Online
+- Cost: Free
+- Dates: June–July
+- Application Deadline: May 1
+- Target Audience: Rising 10th–12th grade high school students.
+- Description: Two-month virtual experience focused on STEM professional skills, design thinking, presentation skills, and exploring STEM careers. The program is designed to encourage girls' participation in STEM.
+- Learn More: Women in STEM Virtual Summer Learning Academy
+
+## Opportunity 3: Kode With Klossy
+- Organization: Kode With Klossy
+- Location: Online + United States
+- Cost: Free
+- Dates: Varies
+- Application Deadline: Varies
+- Target Audience: Young women and gender-expansive youth ages 13–18.
+- Description: Free coding programs where students learn technical skills and build projects while connecting with a community of other young people interested in technology.
+- Learn More: Kode With Klossy
+
+## Opportunity 4: Girls Who Code
+- Organization: Girls Who Code
+- Location: Online + United States
+- Cost: Free
+- Dates: Year-round
+- Application Deadline: Varies
+- Target Audience: Girls and students interested in computer science.
+- Description: Provides free coding education, clubs, online learning opportunities, and resources designed to increase girls' participation in computing.
+- Learn More: Girls Who Code
+
+## Opportunity 5: Women in STEM High School Camps
+- Organization: Women in STEM (UT Austin)
+- Location: Austin, Texas
+- Cost: $200–$350 depending on camp
+- Dates: Summer
+- Application Deadline: Varies
+- Target Audience: Rising 10th–12th grade high school students.
+- Description: On-campus STEM camps where students explore college majors and STEM careers, participate in hands-on activities, meet STEM role models, and learn about university admissions.
+- Learn More: UT Austin Women in STEM Camps
+
+## Opportunity 6: MIT Women's Technology Program
+- Organization: Massachusetts Institute of Technology (MIT)
+- Location: Cambridge, Massachusetts
+- Cost: Free
+- Dates: Summer
+- Application Deadline: Usually January
+- Target Audience: High school girls completing 11th grade with strong interest in engineering and technology.
+- Description: Intensive residential program introducing high school girls to engineering through hands-on projects, classes, and interaction with MIT students and faculty.
+- Learn More: MIT Women's Technology Program
+
+## Opportunity 7: Boston University RISE
+- Organization: Boston University
+- Location: Boston, Massachusetts
+- Cost: Varies; financial aid available
+- Dates: Summer
+- Application Deadline: Usually February
+- Target Audience: Rising high school seniors.
+- Description: Six-week summer program offering opportunities to conduct university-level research or participate in STEM-focused coursework at Boston University.
+- Learn More: Boston University RISE
+
+## Opportunity 8: Research Science Institute (RSI)
+- Organization: Center for Excellence in Education / MIT
+- Location: MIT, Cambridge, Massachusetts
+- Cost: Free
+- Dates: Six weeks during summer
+- Application Deadline: Usually January
+- Target Audience: High school students with exceptional interest and achievement in STEM.
+- Description: Highly selective summer research program where approximately 80 students from around the world conduct original research with scientists and university faculty. Students develop a research paper and present their work at the end of the program.
+- Learn More: Research Science Institute
+
+## Opportunity 9: NASA STEM Opportunities
+- Organization: NASA
+- Location: United States + Online
+- Cost: Varies by opportunity
+- Dates: Varies
+- Application Deadline: Varies
+- Target Audience: Students from middle school through college interested in STEM.
+- Description: NASA offers a range of STEM learning opportunities, including internships, competitions, research experiences, and educational programs connected to space science, engineering, Earth science, and technology.
+- Learn More: NASA STEM Opportunities
+
+## Opportunity 10: MIT Beaver Works Summer Institute
+- Organization: MIT Lincoln Laboratory + MIT School of Engineering
+- Location: Cambridge, Massachusetts + Online components depending on program
+- Cost: Free
+- Dates: Four weeks during summer
+- Application Deadline: Usually January–March
+- Target Audience: Rising high school seniors with strong interest in STEM.
+- Description: Intensive STEM program offering courses in areas such as artificial intelligence, cybersecurity, robotics, and autonomous systems. Students work on hands-on projects with MIT instructors and researchers.
+- Learn More: MIT Beaver Works Summer Institute
+
+## Opportunity 11: Science and Engineering Apprenticeship Program (SEAP)
+- Organization: U.S. Navy / ASEE
+- Location: United States — participating laboratories
+- Cost: Free; paid stipend
+- Dates: Summer
+- Application Deadline: Usually November–January
+- Target Audience: High school students interested in STEM research.
+- Description: Summer research opportunity placing high school students in participating U.S. Navy laboratories. Students work alongside scientists and engineers on real research projects and receive a stipend.
+- Learn More: SEAP
+
+## Opportunity 12: NASA High School Aerospace Scholars
+- Organization: NASA
+- Location: Online + NASA facilities depending on the program
+- Cost: Free
+- Dates: Varies
+- Application Deadline: Varies
+- Target Audience: High school students interested in aerospace, engineering, and space science.
+- Description: STEM program connecting high school students with NASA professionals through aerospace-focused learning, team projects, and engineering challenges.
+- Learn More: NASA High School Aerospace Scholars
+
+## Opportunity 13: Summer Science Program (SSP)
+- Organization: Summer Science Program
+- Location: Multiple U.S. campuses
+- Cost: Financial aid available
+- Dates: Approximately five weeks during summer
+- Application Deadline: Usually February
+- Target Audience: High school students, especially rising seniors, interested in STEM research.
+- Description: Intensive residential research program where students work in teams on authentic scientific research projects in fields such as astrophysics, biochemistry, and bacterial genomics.
+- Learn More: Summer Science Program
