@@ -18,7 +18,7 @@ client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 with open("knowledge.txt", "r", encoding="utf-8") as file:
   # Read the entire contents of the file and store it in a variable
     knowledge_txt = file.read()
-with open("career_knowledge.txt", "r", encoding="utf-8") as f:
+with open("knowledge2.txt", "r", encoding="utf-8") as f:
     career_knowledge = f.read()
 
 def preprocess_text(text):
