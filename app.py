@@ -316,7 +316,7 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
                 "space"
             ],
             label="1. Which STEM subject interests you the most?"
-        )
+            )
 
         q2 = gr.Radio(
             [
@@ -328,7 +328,7 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
                 "problem_solving"
             ],
             label="2. What kind of problem would you most enjoy solving?"
-        )
+            )
 
         q3 = gr.Radio(
             [
@@ -340,7 +340,7 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
                 "exploring"
             ],
             label="3. Which activity sounds the most fun?"
-        )
+            )
 
         q4 = gr.Radio(
             [
@@ -352,7 +352,7 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
                 "outdoors"
             ],
             label="4. Where would you most enjoy working?"
-        )
+            )
 
         q5 = gr.Radio(
             [
@@ -364,7 +364,7 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
                 "environmental solutions"
             ],
             label="5. What would you most like to create or explore?"
-        )
+            )
 
         q6 = gr.Radio(
             [
@@ -376,7 +376,7 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
                 "solving_complex_problems"
             ],
             label="6. What impact would you most like your STEM career to have?"
-        )
+            )
 
         find_button = gr.Button("🔍 Find My Careers")
 
@@ -386,12 +386,12 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
             career_quiz,
             inputs=[q1, q2, q3, q4, q5, q6],
             outputs=quiz_results
-        )
+         )
 
-    quiz_button.click(
+        quiz_button.click(
         lambda: gr.update(visible=True),
         outputs=quiz_area
-    )
+         )
 
 demo.launch()
 
