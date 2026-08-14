@@ -127,46 +127,128 @@ def respond(message, history): #respond function
     # return response.choices.message.content.strip()
     return response.choices[0].message.content.strip()
 # =========================
-# CAREER QUIZ
+# CAREER QUIZ LOGIC
 # =========================
 
 career_matches = {
-    "Computer Science": {
-        "Software Engineer": 3,
-        "Data Scientist": 2,
-        "Cybersecurity Analyst": 2
-    },
 
-    "Engineering": {
-        "Mechanical Engineer": 3,
-        "Aerospace Engineer": 3,
-        "Robotics Engineer": 3
-    },
+    "Software Engineer": [
+        "computer_science",
+        "coding",
+        "technology",
+        "problem_solving",
+        "math"
+    ],
 
-    "Biology": {
-        "Biomedical Engineer": 3,
-        "Research Scientist": 2
-    },
+    "Data Scientist": [
+        "computer_science",
+        "coding",
+        "data",
+        "math",
+        "problem_solving"
+    ],
 
-    "Chemistry": {
-        "Chemical Engineer": 3,
-        "Materials Scientist": 2
-    },
+    "Cybersecurity Analyst": [
+        "computer_science",
+        "coding",
+        "technology",
+        "problem_solving"
+    ],
 
-    "Physics and Space": {
-        "Aerospace Engineer": 3,
-        "Astrophysicist": 3
-    }
+    "Mechanical Engineer": [
+        "engineering",
+        "design",
+        "building",
+        "physics",
+        "math",
+        "problem_solving"
+    ],
+
+    "Aerospace Engineer": [
+        "engineering",
+        "space",
+        "physics",
+        "design",
+        "building",
+        "math"
+    ],
+
+    "Robotics Engineer": [
+        "engineering",
+        "coding",
+        "robotics",
+        "design",
+        "building",
+        "problem_solving"
+    ],
+
+    "Biomedical Engineer": [
+        "biology",
+        "engineering",
+        "technology",
+        "research",
+        "helping_people",
+        "problem_solving"
+    ],
+
+    "Chemical Engineer": [
+        "chemistry",
+        "engineering",
+        "math",
+        "research",
+        "experiments"
+    ],
+
+    "Environmental Engineer": [
+        "engineering",
+        "environment",
+        "science",
+        "problem_solving",
+        "design"
+    ],
+
+    "Astrophysicist": [
+        "space",
+        "physics",
+        "math",
+        "research",
+        "science"
+    ],
+
+    "Research Scientist": [
+        "biology",
+        "chemistry",
+        "science",
+        "research",
+        "experiments"
+    ],
+
+    "Materials Scientist": [
+        "chemistry",
+        "physics",
+        "engineering",
+        "research",
+        "materials"
+    ]
 }
 
 
-def career_quiz(subject):
+def career_quiz(q1, q2, q3, q4, q5, q6):
+
+    answers = [q1, q2, q3, q4, q5, q6]
 
     scores = {}
 
-    if subject in career_matches:
-        for career, points in career_matches[subject].items():
-            scores[career] = points
+    for career, interests in career_matches.items():
+
+        score = 0
+
+        for answer in answers:
+
+            if answer in interests:
+                score += 1
+
+        scores[career] = score
 
     ranked = sorted(
         scores.items(),
@@ -174,12 +256,17 @@ def career_quiz(subject):
         reverse=True
     )
 
-    result = "## 🌟 Your STEM Career Matches\n\n"
+    top_careers = ranked[:3]
 
-    for i, (career, score) in enumerate(ranked, start=1):
+    result = "## 🌟 Your Top STEM Career Matches\n\n"
+
+    for i, (career, score) in enumerate(top_careers, start=1):
+
         result += f"### {i}. {career}\n"
+        result += f"**Match:** {score}/6\n\n"
 
     return result
+
 
 
 with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
@@ -192,51 +279,31 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
         </div>
         """
     )
-    
-    # ChatInterface with perfectly scrubbed example formatting
-    gr.ChatInterface(
-        respond,
-        examples=[
-            ["What tech opportunities can I apply for?"],
-            ["What programs are available for girls interested in technology?"],
-            ["Give me ideas for a passion project in tech"],
-            ["How can I start learning programming?"]
-        ],
-        description="This Chatbot is for girls interested in tech who want more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from.",
-    )
-    # =========================
-# CAREER QUIZ UI
-# =========================
+    with gr.Row():
+        with gr.Column(scale=3): 
+            # ChatInterface with perfectly scrubbed example formatting
+            gr.ChatInterface(
+            respond,
+            examples=[
+                ["What tech opportunities can I apply for?"],
+                ["What programs are available for girls interested in technology?"],
+                ["Give me ideas for a passion project in tech"],
+                ["How can I start learning programming?"]
+                ],
+            description="This Chatbot is for girls interested in tech who want more guidance on opportunities, programs, and passion project ideas. It provides you with resources that you can choose from.",
+            )
+        with gr.Column(scale=1):
 
-    gr.Markdown("---")
+            gr.Markdown("""
+            ## 🌟 Career Explorer
 
-    gr.Markdown("""
-    ## 🌟 STEM Career Explorer
+            Not sure what STEM career
+            is right for you?
 
-    Not sure what STEM career might be right for you?
-    Take this quick quiz!
-    """)
+            Take our quick quiz!
+            """)
 
-    subject = gr.Radio(
-        [
-            "Computer Science",
-            "Engineering",
-            "Biology",
-            "Chemistry",
-            "Physics and Space"
-        ],
-        label="Which STEM subject interests you most?"
-    )
-
-    find_button = gr.Button("✨ Find My STEM Careers")
-
-    quiz_results = gr.Markdown()
-
-    find_button.click(
-        career_quiz,
-        inputs=subject,
-        outputs=quiz_results
-    )
+            quiz_button = gr.Button("✨ Take the Quiz")
 
 demo.launch()
 
