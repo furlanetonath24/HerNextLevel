@@ -304,6 +304,94 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
             """)
 
             quiz_button = gr.Button("✨ Take the Quiz")
+                with gr.Column(visible=False) as quiz_area:
+
+        q1 = gr.Radio(
+            [
+                "computer_science",
+                "engineering",
+                "biology",
+                "chemistry",
+                "physics",
+                "space"
+            ],
+            label="1. Which STEM subject interests you the most?"
+        )
+
+        q2 = gr.Radio(
+            [
+                "coding",
+                "design",
+                "building",
+                "research",
+                "experiments",
+                "problem_solving"
+            ],
+            label="2. What kind of problem would you most enjoy solving?"
+        )
+
+        q3 = gr.Radio(
+            [
+                "coding",
+                "building",
+                "experiments",
+                "data",
+                "design",
+                "exploring"
+            ],
+            label="3. Which activity sounds the most fun?"
+        )
+
+        q4 = gr.Radio(
+            [
+                "technology",
+                "laboratory",
+                "workshop",
+                "office",
+                "research",
+                "outdoors"
+            ],
+            label="4. Where would you most enjoy working?"
+        )
+
+        q5 = gr.Radio(
+            [
+                "robots",
+                "software",
+                "space",
+                "medical technology",
+                "new materials",
+                "environmental solutions"
+            ],
+            label="5. What would you most like to create or explore?"
+        )
+
+        q6 = gr.Radio(
+            [
+                "technology",
+                "helping_people",
+                "discovering_new_things",
+                "protecting_environment",
+                "exploring_space",
+                "solving_complex_problems"
+            ],
+            label="6. What impact would you most like your STEM career to have?"
+        )
+
+        find_button = gr.Button("🔍 Find My Careers")
+
+        quiz_results = gr.Markdown()
+
+        find_button.click(
+            career_quiz,
+            inputs=[q1, q2, q3, q4, q5, q6],
+            outputs=quiz_results
+        )
+
+    quiz_button.click(
+        lambda: gr.update(visible=True),
+        outputs=quiz_area
+    )
 
 demo.launch()
 
