@@ -18,6 +18,8 @@ client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 with open("knowledge.txt", "r", encoding="utf-8") as file:
   # Read the entire contents of the file and store it in a variable
     knowledge_txt = file.read()
+with open("career_knowledge.txt", "r", encoding="utf-8") as f:
+    career_knowledge = f.read()
 
 def preprocess_text(text):
   # Strip extra whitespace from the beginning and the end of the text
@@ -129,7 +131,6 @@ def respond(message, history): #respond function
 # =========================
 # CAREER QUIZ LOGIC
 # =========================
-
 career_matches = {
 
     "Software Engineer": [
@@ -137,15 +138,17 @@ career_matches = {
         "coding",
         "technology",
         "problem_solving",
-        "math"
+        "math",
+        "software"
     ],
 
     "Data Scientist": [
         "computer_science",
         "coding",
-        "data",
+        "technology",
+        "problem_solving",
         "math",
-        "problem_solving"
+        "data"
     ],
 
     "Cybersecurity Analyst": [
@@ -179,7 +182,8 @@ career_matches = {
         "robotics",
         "design",
         "building",
-        "problem_solving"
+        "problem_solving",
+        "robots"
     ],
 
     "Biomedical Engineer": [
@@ -188,7 +192,8 @@ career_matches = {
         "technology",
         "research",
         "helping_people",
-        "problem_solving"
+        "problem_solving",
+        "medical technology"
     ],
 
     "Chemical Engineer": [
@@ -204,7 +209,8 @@ career_matches = {
         "environment",
         "science",
         "problem_solving",
-        "design"
+        "design",
+        "environmental solutions"
     ],
 
     "Astrophysicist": [
@@ -228,7 +234,79 @@ career_matches = {
         "physics",
         "engineering",
         "research",
+        "materials",
+        "new materials"
+    ],
+
+    "Civil Engineer": [
+        "engineering",
+        "design",
+        "building",
+        "physics",
+        "math",
+        "problem_solving"
+    ],
+
+    "Electrical Engineer": [
+        "engineering",
+        "physics",
+        "technology",
+        "electronics",
+        "math",
+        "problem_solving"
+    ],
+
+    "Computer Engineer": [
+        "computer_science",
+        "coding",
+        "engineering",
+        "technology",
+        "electronics",
+        "problem_solving"
+    ],
+
+    "Chemical Research Scientist": [
+        "chemistry",
+        "research",
+        "experiments",
+        "science",
         "materials"
+    ],
+
+    "Environmental Scientist": [
+        "biology",
+        "environment",
+        "science",
+        "research",
+        "experiments",
+        "environmental solutions"
+    ],
+
+    "Biomedical Scientist": [
+        "biology",
+        "chemistry",
+        "research",
+        "science",
+        "experiments",
+        "medical technology"
+    ],
+
+    "Nuclear Engineer": [
+        "engineering",
+        "physics",
+        "math",
+        "science",
+        "energy",
+        "problem_solving"
+    ],
+
+    "Industrial Engineer": [
+        "engineering",
+        "math",
+        "data",
+        "problem_solving",
+        "technology",
+        "design"
     ]
 }
 
@@ -264,6 +342,19 @@ def career_quiz(q1, q2, q3, q4, q5, q6):
 
         result += f"### {i}. {career}\n"
         result += f"**Match:** {score}/6\n\n"
+        
+        # Search the career knowledge base
+        career_position = career_knowledge.lower().find(career.lower())
+
+        if career_position != -1:
+
+            career_info = career_knowledge[career_position:]
+
+            # Limit how much information is displayed
+            career_info = career_info[:1200]
+
+            result += career_info
+            result += "\n\n---\n\n"
 
     return result
 
@@ -370,13 +461,13 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
                 [
                     "technology",
                     "helping_people",
-                    "discovering_new_things",
-                    "protecting_environment",
-                    "exploring_space",
-                    "solving_complex_problems"
+                    "research",
+                    "environmental solutions",
+                    "space",
+                    "problem_solving
                 ],
                 label="6. What impact would you most like your STEM career to have?"
-                )
+             )
 
         find_button = gr.Button("🔍 Find My Careers")
 
