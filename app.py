@@ -304,7 +304,7 @@ with gr.Blocks(theme=gr.Theme.from_hub("Ayaku/Aa")) as demo:
             """)
 
             quiz_button = gr.Button("✨ Take the Quiz")
-                with gr.Column(visible=False) as quiz_area:
+        with gr.Column(visible=False) as quiz_area:
 
         q1 = gr.Radio(
             [
